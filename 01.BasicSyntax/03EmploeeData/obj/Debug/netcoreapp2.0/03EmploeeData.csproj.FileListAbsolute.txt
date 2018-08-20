@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\01.BasicSyntax\03EmploeeData\bin\Debug\netcoreapp2.0\03EmploeeData.deps.json
+D:\Users\nikim\source\repos\01.BasicSyntax\03EmploeeData\bin\Debug\netcoreapp2.0\03EmploeeData.runtimeconfig.json
+D:\Users\nikim\source\repos\01.BasicSyntax\03EmploeeData\bin\Debug\netcoreapp2.0\03EmploeeData.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\01.BasicSyntax\03EmploeeData\bin\Debug\netcoreapp2.0\03EmploeeData.dll
+D:\Users\nikim\source\repos\01.BasicSyntax\03EmploeeData\bin\Debug\netcoreapp2.0\03EmploeeData.pdb
+D:\Users\nikim\source\repos\01.BasicSyntax\03EmploeeData\obj\Debug\netcoreapp2.0\03EmploeeData.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\01.BasicSyntax\03EmploeeData\obj\Debug\netcoreapp2.0\03EmploeeData.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\01.BasicSyntax\03EmploeeData\obj\Debug\netcoreapp2.0\03EmploeeData.AssemblyInfo.cs
+D:\Users\nikim\source\repos\01.BasicSyntax\03EmploeeData\obj\Debug\netcoreapp2.0\03EmploeeData.dll
+D:\Users\nikim\source\repos\01.BasicSyntax\03EmploeeData\obj\Debug\netcoreapp2.0\03EmploeeData.pdb

@@ -1,0 +1,11 @@
+D:\Users\nikim\C#Projects\Exam-01-07-18\02SoftUniCources\bin\Debug\netcoreapp2.0\02SoftUniCources.deps.json
+D:\Users\nikim\C#Projects\Exam-01-07-18\02SoftUniCources\bin\Debug\netcoreapp2.0\02SoftUniCources.runtimeconfig.json
+D:\Users\nikim\C#Projects\Exam-01-07-18\02SoftUniCources\bin\Debug\netcoreapp2.0\02SoftUniCources.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\Exam-01-07-18\02SoftUniCources\bin\Debug\netcoreapp2.0\02SoftUniCources.dll
+D:\Users\nikim\C#Projects\Exam-01-07-18\02SoftUniCources\bin\Debug\netcoreapp2.0\02SoftUniCources.pdb
+D:\Users\nikim\C#Projects\Exam-01-07-18\02SoftUniCources\obj\Debug\netcoreapp2.0\02SoftUniCources.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\Exam-01-07-18\02SoftUniCources\obj\Debug\netcoreapp2.0\02SoftUniCources.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\Exam-01-07-18\02SoftUniCources\obj\Debug\netcoreapp2.0\02SoftUniCources.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\Exam-01-07-18\02SoftUniCources\obj\Debug\netcoreapp2.0\02SoftUniCources.dll
+D:\Users\nikim\C#Projects\Exam-01-07-18\02SoftUniCources\obj\Debug\netcoreapp2.0\02SoftUniCources.pdb
+D:\Users\nikim\C#Projects\Exam-01-07-18\02SoftUniCources\obj\Debug\netcoreapp2.0\02SoftUniCources.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\03EnduranceRally\bin\Debug\netcoreapp2.0\03EnduranceRally.deps.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\03EnduranceRally\bin\Debug\netcoreapp2.0\03EnduranceRally.runtimeconfig.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\03EnduranceRally\bin\Debug\netcoreapp2.0\03EnduranceRally.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\03EnduranceRally\bin\Debug\netcoreapp2.0\03EnduranceRally.dll
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\03EnduranceRally\bin\Debug\netcoreapp2.0\03EnduranceRally.pdb
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\03EnduranceRally\obj\Debug\netcoreapp2.0\03EnduranceRally.csprojResolveAssemblyReference.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\03EnduranceRally\obj\Debug\netcoreapp2.0\03EnduranceRally.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\03EnduranceRally\obj\Debug\netcoreapp2.0\03EnduranceRally.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\03EnduranceRally\obj\Debug\netcoreapp2.0\03EnduranceRally.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\03EnduranceRally\obj\Debug\netcoreapp2.0\03EnduranceRally.dll
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\03EnduranceRally\obj\Debug\netcoreapp2.0\03EnduranceRally.pdb

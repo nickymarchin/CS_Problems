@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\07ExchangeVariableValues\bin\Debug\netcoreapp2.0\07ExchangeVariableValues.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\07ExchangeVariableValues\bin\Debug\netcoreapp2.0\07ExchangeVariableValues.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\07ExchangeVariableValues\bin\Debug\netcoreapp2.0\07ExchangeVariableValues.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\07ExchangeVariableValues\bin\Debug\netcoreapp2.0\07ExchangeVariableValues.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\07ExchangeVariableValues\bin\Debug\netcoreapp2.0\07ExchangeVariableValues.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\07ExchangeVariableValues\obj\Debug\netcoreapp2.0\07ExchangeVariableValues.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\07ExchangeVariableValues\obj\Debug\netcoreapp2.0\07ExchangeVariableValues.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\07ExchangeVariableValues\obj\Debug\netcoreapp2.0\07ExchangeVariableValues.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\07ExchangeVariableValues\obj\Debug\netcoreapp2.0\07ExchangeVariableValues.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\07ExchangeVariableValues\obj\Debug\netcoreapp2.0\07ExchangeVariableValues.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\07ExchangeVariableValues\obj\Debug\netcoreapp2.0\07ExchangeVariableValues.pdb

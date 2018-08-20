@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\08CenterPoint\bin\Debug\netcoreapp2.0\08CenterPoint.deps.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\08CenterPoint\bin\Debug\netcoreapp2.0\08CenterPoint.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\08CenterPoint\bin\Debug\netcoreapp2.0\08CenterPoint.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\08CenterPoint\bin\Debug\netcoreapp2.0\08CenterPoint.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\08CenterPoint\bin\Debug\netcoreapp2.0\08CenterPoint.pdb
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\08CenterPoint\obj\Debug\netcoreapp2.0\08CenterPoint.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\08CenterPoint\obj\Debug\netcoreapp2.0\08CenterPoint.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\08CenterPoint\obj\Debug\netcoreapp2.0\08CenterPoint.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\08CenterPoint\obj\Debug\netcoreapp2.0\08CenterPoint.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\08CenterPoint\obj\Debug\netcoreapp2.0\08CenterPoint.pdb

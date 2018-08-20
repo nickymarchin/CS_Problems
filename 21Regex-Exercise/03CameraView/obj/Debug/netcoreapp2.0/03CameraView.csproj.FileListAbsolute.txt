@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\03CameraView\bin\Debug\netcoreapp2.0\03CameraView.deps.json
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\03CameraView\bin\Debug\netcoreapp2.0\03CameraView.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\03CameraView\bin\Debug\netcoreapp2.0\03CameraView.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\03CameraView\bin\Debug\netcoreapp2.0\03CameraView.dll
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\03CameraView\bin\Debug\netcoreapp2.0\03CameraView.pdb
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\03CameraView\obj\Debug\netcoreapp2.0\03CameraView.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\03CameraView\obj\Debug\netcoreapp2.0\03CameraView.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\03CameraView\obj\Debug\netcoreapp2.0\03CameraView.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\03CameraView\obj\Debug\netcoreapp2.0\03CameraView.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\03CameraView\obj\Debug\netcoreapp2.0\03CameraView.dll
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\03CameraView\obj\Debug\netcoreapp2.0\03CameraView.pdb

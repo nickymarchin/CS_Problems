@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\09RefactorCode\bin\Debug\netcoreapp2.0\09RefactorCode.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\09RefactorCode\bin\Debug\netcoreapp2.0\09RefactorCode.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\09RefactorCode\bin\Debug\netcoreapp2.0\09RefactorCode.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\09RefactorCode\bin\Debug\netcoreapp2.0\09RefactorCode.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\09RefactorCode\bin\Debug\netcoreapp2.0\09RefactorCode.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\09RefactorCode\obj\Debug\netcoreapp2.0\09RefactorCode.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\09RefactorCode\obj\Debug\netcoreapp2.0\09RefactorCode.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\09RefactorCode\obj\Debug\netcoreapp2.0\09RefactorCode.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\09RefactorCode\obj\Debug\netcoreapp2.0\09RefactorCode.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\09RefactorCode\obj\Debug\netcoreapp2.0\09RefactorCode.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\09RefactorCode\obj\Debug\netcoreapp2.0\09RefactorCode.pdb

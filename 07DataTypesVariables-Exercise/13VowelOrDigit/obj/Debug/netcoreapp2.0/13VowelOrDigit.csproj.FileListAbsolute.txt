@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\13VowelOrDigit\bin\Debug\netcoreapp2.0\13VowelOrDigit.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\13VowelOrDigit\bin\Debug\netcoreapp2.0\13VowelOrDigit.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\13VowelOrDigit\bin\Debug\netcoreapp2.0\13VowelOrDigit.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\13VowelOrDigit\bin\Debug\netcoreapp2.0\13VowelOrDigit.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\13VowelOrDigit\bin\Debug\netcoreapp2.0\13VowelOrDigit.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\13VowelOrDigit\obj\Debug\netcoreapp2.0\13VowelOrDigit.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\13VowelOrDigit\obj\Debug\netcoreapp2.0\13VowelOrDigit.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\13VowelOrDigit\obj\Debug\netcoreapp2.0\13VowelOrDigit.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\13VowelOrDigit\obj\Debug\netcoreapp2.0\13VowelOrDigit.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\13VowelOrDigit\obj\Debug\netcoreapp2.0\13VowelOrDigit.pdb

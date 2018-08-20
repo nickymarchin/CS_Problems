@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\03FoldAndSum\bin\Debug\netcoreapp2.0\03FoldAndSum.deps.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\03FoldAndSum\bin\Debug\netcoreapp2.0\03FoldAndSum.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\03FoldAndSum\bin\Debug\netcoreapp2.0\03FoldAndSum.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\03FoldAndSum\bin\Debug\netcoreapp2.0\03FoldAndSum.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\03FoldAndSum\bin\Debug\netcoreapp2.0\03FoldAndSum.pdb
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\03FoldAndSum\obj\Debug\netcoreapp2.0\03FoldAndSum.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\03FoldAndSum\obj\Debug\netcoreapp2.0\03FoldAndSum.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\03FoldAndSum\obj\Debug\netcoreapp2.0\03FoldAndSum.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\03FoldAndSum\obj\Debug\netcoreapp2.0\03FoldAndSum.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\03FoldAndSum\obj\Debug\netcoreapp2.0\03FoldAndSum.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\03FoldAndSum\obj\Debug\netcoreapp2.0\03FoldAndSum.pdb

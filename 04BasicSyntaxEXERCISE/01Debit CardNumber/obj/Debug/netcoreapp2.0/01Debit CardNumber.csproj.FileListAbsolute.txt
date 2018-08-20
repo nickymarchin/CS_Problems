@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\01Debit CardNumber\bin\Debug\netcoreapp2.0\01Debit CardNumber.deps.json
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\01Debit CardNumber\bin\Debug\netcoreapp2.0\01Debit CardNumber.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\01Debit CardNumber\bin\Debug\netcoreapp2.0\01Debit CardNumber.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\01Debit CardNumber\bin\Debug\netcoreapp2.0\01Debit CardNumber.dll
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\01Debit CardNumber\bin\Debug\netcoreapp2.0\01Debit CardNumber.pdb
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\01Debit CardNumber\obj\Debug\netcoreapp2.0\01Debit CardNumber.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\01Debit CardNumber\obj\Debug\netcoreapp2.0\01Debit CardNumber.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\01Debit CardNumber\obj\Debug\netcoreapp2.0\01Debit CardNumber.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\01Debit CardNumber\obj\Debug\netcoreapp2.0\01Debit CardNumber.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\01Debit CardNumber\obj\Debug\netcoreapp2.0\01Debit CardNumber.dll
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\01Debit CardNumber\obj\Debug\netcoreapp2.0\01Debit CardNumber.pdb

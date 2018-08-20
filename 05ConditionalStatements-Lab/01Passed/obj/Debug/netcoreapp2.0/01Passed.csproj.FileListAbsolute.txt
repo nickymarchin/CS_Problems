@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\01Passed\bin\Debug\netcoreapp2.0\01Passed.deps.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\01Passed\bin\Debug\netcoreapp2.0\01Passed.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\01Passed\bin\Debug\netcoreapp2.0\01Passed.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\01Passed\bin\Debug\netcoreapp2.0\01Passed.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\01Passed\bin\Debug\netcoreapp2.0\01Passed.pdb
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\01Passed\obj\Debug\netcoreapp2.0\01Passed.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\01Passed\obj\Debug\netcoreapp2.0\01Passed.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\01Passed\obj\Debug\netcoreapp2.0\01Passed.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\01Passed\obj\Debug\netcoreapp2.0\01Passed.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\01Passed\obj\Debug\netcoreapp2.0\01Passed.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\01Passed\obj\Debug\netcoreapp2.0\01Passed.pdb

@@ -1,0 +1,11 @@
+D:\Users\nikim\C#Projects\ExamPreparation1\03TseamAccount\bin\Debug\netcoreapp2.0\03TseamAccount.deps.json
+D:\Users\nikim\C#Projects\ExamPreparation1\03TseamAccount\bin\Debug\netcoreapp2.0\03TseamAccount.runtimeconfig.json
+D:\Users\nikim\C#Projects\ExamPreparation1\03TseamAccount\bin\Debug\netcoreapp2.0\03TseamAccount.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\ExamPreparation1\03TseamAccount\bin\Debug\netcoreapp2.0\03TseamAccount.dll
+D:\Users\nikim\C#Projects\ExamPreparation1\03TseamAccount\bin\Debug\netcoreapp2.0\03TseamAccount.pdb
+D:\Users\nikim\C#Projects\ExamPreparation1\03TseamAccount\obj\Debug\netcoreapp2.0\03TseamAccount.csprojResolveAssemblyReference.cache
+D:\Users\nikim\C#Projects\ExamPreparation1\03TseamAccount\obj\Debug\netcoreapp2.0\03TseamAccount.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\ExamPreparation1\03TseamAccount\obj\Debug\netcoreapp2.0\03TseamAccount.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\ExamPreparation1\03TseamAccount\obj\Debug\netcoreapp2.0\03TseamAccount.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\ExamPreparation1\03TseamAccount\obj\Debug\netcoreapp2.0\03TseamAccount.dll
+D:\Users\nikim\C#Projects\ExamPreparation1\03TseamAccount\obj\Debug\netcoreapp2.0\03TseamAccount.pdb

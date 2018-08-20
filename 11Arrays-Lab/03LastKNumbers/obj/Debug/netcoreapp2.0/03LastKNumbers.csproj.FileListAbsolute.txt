@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\03LastKNumbers\bin\Debug\netcoreapp2.0\03LastKNumbers.deps.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\03LastKNumbers\bin\Debug\netcoreapp2.0\03LastKNumbers.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\03LastKNumbers\bin\Debug\netcoreapp2.0\03LastKNumbers.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\03LastKNumbers\bin\Debug\netcoreapp2.0\03LastKNumbers.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\03LastKNumbers\bin\Debug\netcoreapp2.0\03LastKNumbers.pdb
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\03LastKNumbers\obj\Debug\netcoreapp2.0\03LastKNumbers.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\03LastKNumbers\obj\Debug\netcoreapp2.0\03LastKNumbers.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\03LastKNumbers\obj\Debug\netcoreapp2.0\03LastKNumbers.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\03LastKNumbers\obj\Debug\netcoreapp2.0\03LastKNumbers.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\03LastKNumbers\obj\Debug\netcoreapp2.0\03LastKNumbers.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\03LastKNumbers\obj\Debug\netcoreapp2.0\03LastKNumbers.pdb

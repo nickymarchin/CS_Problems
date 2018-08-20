@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\04BevarageLabels\bin\Debug\netcoreapp2.0\04BevarageLabels.deps.json
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\04BevarageLabels\bin\Debug\netcoreapp2.0\04BevarageLabels.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\04BevarageLabels\bin\Debug\netcoreapp2.0\04BevarageLabels.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\04BevarageLabels\bin\Debug\netcoreapp2.0\04BevarageLabels.dll
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\04BevarageLabels\bin\Debug\netcoreapp2.0\04BevarageLabels.pdb
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\04BevarageLabels\obj\Debug\netcoreapp2.0\04BevarageLabels.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\04BevarageLabels\obj\Debug\netcoreapp2.0\04BevarageLabels.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\04BevarageLabels\obj\Debug\netcoreapp2.0\04BevarageLabels.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\04BevarageLabels\obj\Debug\netcoreapp2.0\04BevarageLabels.dll
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\04BevarageLabels\obj\Debug\netcoreapp2.0\04BevarageLabels.pdb

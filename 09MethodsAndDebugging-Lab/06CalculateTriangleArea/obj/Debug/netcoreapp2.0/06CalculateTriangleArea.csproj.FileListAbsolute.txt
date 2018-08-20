@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\06CalculateTriangleArea\bin\Debug\netcoreapp2.0\06CalculateTriangleArea.deps.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\06CalculateTriangleArea\bin\Debug\netcoreapp2.0\06CalculateTriangleArea.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\06CalculateTriangleArea\bin\Debug\netcoreapp2.0\06CalculateTriangleArea.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\06CalculateTriangleArea\bin\Debug\netcoreapp2.0\06CalculateTriangleArea.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\06CalculateTriangleArea\bin\Debug\netcoreapp2.0\06CalculateTriangleArea.pdb
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\06CalculateTriangleArea\obj\Debug\netcoreapp2.0\06CalculateTriangleArea.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\06CalculateTriangleArea\obj\Debug\netcoreapp2.0\06CalculateTriangleArea.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\06CalculateTriangleArea\obj\Debug\netcoreapp2.0\06CalculateTriangleArea.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\06CalculateTriangleArea\obj\Debug\netcoreapp2.0\06CalculateTriangleArea.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\06CalculateTriangleArea\obj\Debug\netcoreapp2.0\06CalculateTriangleArea.pdb

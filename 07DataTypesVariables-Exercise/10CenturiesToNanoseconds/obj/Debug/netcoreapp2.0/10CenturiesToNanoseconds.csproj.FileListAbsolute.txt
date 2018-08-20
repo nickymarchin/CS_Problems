@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\10CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\10CenturiesToNanoseconds.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\10CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\10CenturiesToNanoseconds.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\10CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\10CenturiesToNanoseconds.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\10CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\10CenturiesToNanoseconds.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\10CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\10CenturiesToNanoseconds.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\10CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\10CenturiesToNanoseconds.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\10CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\10CenturiesToNanoseconds.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\10CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\10CenturiesToNanoseconds.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\10CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\10CenturiesToNanoseconds.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\10CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\10CenturiesToNanoseconds.pdb

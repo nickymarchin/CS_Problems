@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\02RotateAndSum\bin\Debug\netcoreapp2.0\02RotateAndSum.deps.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\02RotateAndSum\bin\Debug\netcoreapp2.0\02RotateAndSum.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\02RotateAndSum\bin\Debug\netcoreapp2.0\02RotateAndSum.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\02RotateAndSum\bin\Debug\netcoreapp2.0\02RotateAndSum.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\02RotateAndSum\bin\Debug\netcoreapp2.0\02RotateAndSum.pdb
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\02RotateAndSum\obj\Debug\netcoreapp2.0\02RotateAndSum.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\02RotateAndSum\obj\Debug\netcoreapp2.0\02RotateAndSum.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\02RotateAndSum\obj\Debug\netcoreapp2.0\02RotateAndSum.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\02RotateAndSum\obj\Debug\netcoreapp2.0\02RotateAndSum.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\02RotateAndSum\obj\Debug\netcoreapp2.0\02RotateAndSum.pdb
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\02RotateAndSum\obj\Debug\netcoreapp2.0\02RotateAndSum.csprojResolveAssemblyReference.cache

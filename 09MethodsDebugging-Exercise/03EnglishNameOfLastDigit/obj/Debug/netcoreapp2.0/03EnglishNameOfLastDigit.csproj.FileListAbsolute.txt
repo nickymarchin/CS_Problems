@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\03EnglishNameOfLastDigit\bin\Debug\netcoreapp2.0\03EnglishNameOfLastDigit.deps.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\03EnglishNameOfLastDigit\bin\Debug\netcoreapp2.0\03EnglishNameOfLastDigit.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\03EnglishNameOfLastDigit\bin\Debug\netcoreapp2.0\03EnglishNameOfLastDigit.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\03EnglishNameOfLastDigit\bin\Debug\netcoreapp2.0\03EnglishNameOfLastDigit.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\03EnglishNameOfLastDigit\bin\Debug\netcoreapp2.0\03EnglishNameOfLastDigit.pdb
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\03EnglishNameOfLastDigit\obj\Debug\netcoreapp2.0\03EnglishNameOfLastDigit.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\03EnglishNameOfLastDigit\obj\Debug\netcoreapp2.0\03EnglishNameOfLastDigit.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\03EnglishNameOfLastDigit\obj\Debug\netcoreapp2.0\03EnglishNameOfLastDigit.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\03EnglishNameOfLastDigit\obj\Debug\netcoreapp2.0\03EnglishNameOfLastDigit.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\03EnglishNameOfLastDigit\obj\Debug\netcoreapp2.0\03EnglishNameOfLastDigit.pdb

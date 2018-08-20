@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\06BigNumbersSum\bin\Debug\netcoreapp2.0\06BigNumbersSum.deps.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\06BigNumbersSum\bin\Debug\netcoreapp2.0\06BigNumbersSum.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\06BigNumbersSum\bin\Debug\netcoreapp2.0\06BigNumbersSum.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\06BigNumbersSum\bin\Debug\netcoreapp2.0\06BigNumbersSum.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\06BigNumbersSum\bin\Debug\netcoreapp2.0\06BigNumbersSum.pdb
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\06BigNumbersSum\obj\Debug\netcoreapp2.0\06BigNumbersSum.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\06BigNumbersSum\obj\Debug\netcoreapp2.0\06BigNumbersSum.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\06BigNumbersSum\obj\Debug\netcoreapp2.0\06BigNumbersSum.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\06BigNumbersSum\obj\Debug\netcoreapp2.0\06BigNumbersSum.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\06BigNumbersSum\obj\Debug\netcoreapp2.0\06BigNumbersSum.pdb

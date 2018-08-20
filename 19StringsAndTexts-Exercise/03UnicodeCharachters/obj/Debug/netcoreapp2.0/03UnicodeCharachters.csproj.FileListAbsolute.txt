@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\03UnicodeCharachters\bin\Debug\netcoreapp2.0\03UnicodeCharachters.deps.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\03UnicodeCharachters\bin\Debug\netcoreapp2.0\03UnicodeCharachters.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\03UnicodeCharachters\bin\Debug\netcoreapp2.0\03UnicodeCharachters.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\03UnicodeCharachters\bin\Debug\netcoreapp2.0\03UnicodeCharachters.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\03UnicodeCharachters\bin\Debug\netcoreapp2.0\03UnicodeCharachters.pdb
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\03UnicodeCharachters\obj\Debug\netcoreapp2.0\03UnicodeCharachters.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\03UnicodeCharachters\obj\Debug\netcoreapp2.0\03UnicodeCharachters.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\03UnicodeCharachters\obj\Debug\netcoreapp2.0\03UnicodeCharachters.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\03UnicodeCharachters\obj\Debug\netcoreapp2.0\03UnicodeCharachters.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\03UnicodeCharachters\obj\Debug\netcoreapp2.0\03UnicodeCharachters.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\03UnicodeCharachters\obj\Debug\netcoreapp2.0\03UnicodeCharachters.pdb

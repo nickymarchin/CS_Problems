@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\01PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\01PracticeIntegerNumbers.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\01PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\01PracticeIntegerNumbers.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\01PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\01PracticeIntegerNumbers.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\01PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\01PracticeIntegerNumbers.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\01PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\01PracticeIntegerNumbers.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\01PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\01PracticeIntegerNumbers.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\01PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\01PracticeIntegerNumbers.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\01PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\01PracticeIntegerNumbers.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\01PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\01PracticeIntegerNumbers.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\01PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\01PracticeIntegerNumbers.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\01PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\01PracticeIntegerNumbers.pdb

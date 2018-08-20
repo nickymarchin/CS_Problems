@@ -1,0 +1,11 @@
+D:\Users\nikim\C#Projects\ExamPreparation1\01RageExpenses\bin\Debug\netcoreapp2.0\01RageExpenses.deps.json
+D:\Users\nikim\C#Projects\ExamPreparation1\01RageExpenses\bin\Debug\netcoreapp2.0\01RageExpenses.runtimeconfig.json
+D:\Users\nikim\C#Projects\ExamPreparation1\01RageExpenses\bin\Debug\netcoreapp2.0\01RageExpenses.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\ExamPreparation1\01RageExpenses\bin\Debug\netcoreapp2.0\01RageExpenses.dll
+D:\Users\nikim\C#Projects\ExamPreparation1\01RageExpenses\bin\Debug\netcoreapp2.0\01RageExpenses.pdb
+D:\Users\nikim\C#Projects\ExamPreparation1\01RageExpenses\obj\Debug\netcoreapp2.0\01RageExpenses.csprojResolveAssemblyReference.cache
+D:\Users\nikim\C#Projects\ExamPreparation1\01RageExpenses\obj\Debug\netcoreapp2.0\01RageExpenses.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\ExamPreparation1\01RageExpenses\obj\Debug\netcoreapp2.0\01RageExpenses.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\ExamPreparation1\01RageExpenses\obj\Debug\netcoreapp2.0\01RageExpenses.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\ExamPreparation1\01RageExpenses\obj\Debug\netcoreapp2.0\01RageExpenses.dll
+D:\Users\nikim\C#Projects\ExamPreparation1\01RageExpenses\obj\Debug\netcoreapp2.0\01RageExpenses.pdb

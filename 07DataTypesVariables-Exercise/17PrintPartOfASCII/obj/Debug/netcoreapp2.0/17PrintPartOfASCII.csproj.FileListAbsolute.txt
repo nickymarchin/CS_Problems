@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\17PrintPartOfASCII\bin\Debug\netcoreapp2.0\17PrintPartOfASCII.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\17PrintPartOfASCII\bin\Debug\netcoreapp2.0\17PrintPartOfASCII.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\17PrintPartOfASCII\bin\Debug\netcoreapp2.0\17PrintPartOfASCII.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\17PrintPartOfASCII\bin\Debug\netcoreapp2.0\17PrintPartOfASCII.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\17PrintPartOfASCII\bin\Debug\netcoreapp2.0\17PrintPartOfASCII.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\17PrintPartOfASCII\obj\Debug\netcoreapp2.0\17PrintPartOfASCII.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\17PrintPartOfASCII\obj\Debug\netcoreapp2.0\17PrintPartOfASCII.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\17PrintPartOfASCII\obj\Debug\netcoreapp2.0\17PrintPartOfASCII.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\17PrintPartOfASCII\obj\Debug\netcoreapp2.0\17PrintPartOfASCII.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\17PrintPartOfASCII\obj\Debug\netcoreapp2.0\17PrintPartOfASCII.pdb

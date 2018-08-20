@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DistanceBEtweenPoints\bin\Debug\netcoreapp2.0\DistanceBEtweenPoints.deps.json
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DistanceBEtweenPoints\bin\Debug\netcoreapp2.0\DistanceBEtweenPoints.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DistanceBEtweenPoints\bin\Debug\netcoreapp2.0\DistanceBEtweenPoints.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DistanceBEtweenPoints\bin\Debug\netcoreapp2.0\DistanceBEtweenPoints.dll
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DistanceBEtweenPoints\bin\Debug\netcoreapp2.0\DistanceBEtweenPoints.pdb
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DistanceBEtweenPoints\obj\Debug\netcoreapp2.0\DistanceBEtweenPoints.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DistanceBEtweenPoints\obj\Debug\netcoreapp2.0\DistanceBEtweenPoints.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DistanceBEtweenPoints\obj\Debug\netcoreapp2.0\DistanceBEtweenPoints.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DistanceBEtweenPoints\obj\Debug\netcoreapp2.0\DistanceBEtweenPoints.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DistanceBEtweenPoints\obj\Debug\netcoreapp2.0\DistanceBEtweenPoints.dll
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DistanceBEtweenPoints\obj\Debug\netcoreapp2.0\DistanceBEtweenPoints.pdb

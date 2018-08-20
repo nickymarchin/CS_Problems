@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\01BlankReciept\bin\Debug\netcoreapp2.0\01BlankReciept.deps.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\01BlankReciept\bin\Debug\netcoreapp2.0\01BlankReciept.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\01BlankReciept\bin\Debug\netcoreapp2.0\01BlankReciept.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\01BlankReciept\bin\Debug\netcoreapp2.0\01BlankReciept.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\01BlankReciept\bin\Debug\netcoreapp2.0\01BlankReciept.pdb
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\01BlankReciept\obj\Debug\netcoreapp2.0\01BlankReciept.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\01BlankReciept\obj\Debug\netcoreapp2.0\01BlankReciept.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\01BlankReciept\obj\Debug\netcoreapp2.0\01BlankReciept.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\01BlankReciept\obj\Debug\netcoreapp2.0\01BlankReciept.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\01BlankReciept\obj\Debug\netcoreapp2.0\01BlankReciept.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\01BlankReciept\obj\Debug\netcoreapp2.0\01BlankReciept.pdb

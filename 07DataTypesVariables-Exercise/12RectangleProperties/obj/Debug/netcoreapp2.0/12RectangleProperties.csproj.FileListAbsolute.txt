@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\12RectangleProperties\bin\Debug\netcoreapp2.0\12RectangleProperties.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\12RectangleProperties\bin\Debug\netcoreapp2.0\12RectangleProperties.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\12RectangleProperties\bin\Debug\netcoreapp2.0\12RectangleProperties.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\12RectangleProperties\bin\Debug\netcoreapp2.0\12RectangleProperties.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\12RectangleProperties\bin\Debug\netcoreapp2.0\12RectangleProperties.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\12RectangleProperties\obj\Debug\netcoreapp2.0\12RectangleProperties.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\12RectangleProperties\obj\Debug\netcoreapp2.0\12RectangleProperties.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\12RectangleProperties\obj\Debug\netcoreapp2.0\12RectangleProperties.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\12RectangleProperties\obj\Debug\netcoreapp2.0\12RectangleProperties.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\12RectangleProperties\obj\Debug\netcoreapp2.0\12RectangleProperties.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\12RectangleProperties\obj\Debug\netcoreapp2.0\12RectangleProperties.pdb

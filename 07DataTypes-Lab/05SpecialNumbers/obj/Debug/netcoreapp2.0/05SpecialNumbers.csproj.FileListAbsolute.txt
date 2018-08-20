@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\05SpecialNumbers\bin\Debug\netcoreapp2.0\05SpecialNumbers.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\05SpecialNumbers\bin\Debug\netcoreapp2.0\05SpecialNumbers.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\05SpecialNumbers\bin\Debug\netcoreapp2.0\05SpecialNumbers.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\05SpecialNumbers\bin\Debug\netcoreapp2.0\05SpecialNumbers.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\05SpecialNumbers\bin\Debug\netcoreapp2.0\05SpecialNumbers.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\05SpecialNumbers\obj\Debug\netcoreapp2.0\05SpecialNumbers.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\05SpecialNumbers\obj\Debug\netcoreapp2.0\05SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\05SpecialNumbers\obj\Debug\netcoreapp2.0\05SpecialNumbers.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\05SpecialNumbers\obj\Debug\netcoreapp2.0\05SpecialNumbers.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\05SpecialNumbers\obj\Debug\netcoreapp2.0\05SpecialNumbers.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\05SpecialNumbers\obj\Debug\netcoreapp2.0\05SpecialNumbers.pdb

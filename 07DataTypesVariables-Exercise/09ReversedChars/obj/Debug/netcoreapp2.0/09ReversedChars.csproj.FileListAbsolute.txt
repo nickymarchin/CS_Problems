@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\09ReversedChars\bin\Debug\netcoreapp2.0\09ReversedChars.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\09ReversedChars\bin\Debug\netcoreapp2.0\09ReversedChars.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\09ReversedChars\bin\Debug\netcoreapp2.0\09ReversedChars.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\09ReversedChars\bin\Debug\netcoreapp2.0\09ReversedChars.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\09ReversedChars\bin\Debug\netcoreapp2.0\09ReversedChars.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\09ReversedChars\obj\Debug\netcoreapp2.0\09ReversedChars.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\09ReversedChars\obj\Debug\netcoreapp2.0\09ReversedChars.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\09ReversedChars\obj\Debug\netcoreapp2.0\09ReversedChars.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\09ReversedChars\obj\Debug\netcoreapp2.0\09ReversedChars.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\09ReversedChars\obj\Debug\netcoreapp2.0\09ReversedChars.pdb

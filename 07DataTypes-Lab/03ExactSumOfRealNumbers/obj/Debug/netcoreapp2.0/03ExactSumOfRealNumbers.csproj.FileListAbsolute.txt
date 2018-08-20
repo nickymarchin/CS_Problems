@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\03ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\03ExactSumOfRealNumbers.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\03ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\03ExactSumOfRealNumbers.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\03ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\03ExactSumOfRealNumbers.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\03ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\03ExactSumOfRealNumbers.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\03ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\03ExactSumOfRealNumbers.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\03ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\03ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\03ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\03ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\03ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\03ExactSumOfRealNumbers.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\03ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\03ExactSumOfRealNumbers.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\03ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\03ExactSumOfRealNumbers.pdb

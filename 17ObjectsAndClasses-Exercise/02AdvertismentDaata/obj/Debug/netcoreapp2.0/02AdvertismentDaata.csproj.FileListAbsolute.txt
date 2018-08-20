@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\02AdvertismentDaata\bin\Debug\netcoreapp2.0\02AdvertismentDaata.deps.json
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\02AdvertismentDaata\bin\Debug\netcoreapp2.0\02AdvertismentDaata.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\02AdvertismentDaata\bin\Debug\netcoreapp2.0\02AdvertismentDaata.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\02AdvertismentDaata\bin\Debug\netcoreapp2.0\02AdvertismentDaata.dll
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\02AdvertismentDaata\bin\Debug\netcoreapp2.0\02AdvertismentDaata.pdb
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\02AdvertismentDaata\obj\Debug\netcoreapp2.0\02AdvertismentDaata.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\02AdvertismentDaata\obj\Debug\netcoreapp2.0\02AdvertismentDaata.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\02AdvertismentDaata\obj\Debug\netcoreapp2.0\02AdvertismentDaata.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\02AdvertismentDaata\obj\Debug\netcoreapp2.0\02AdvertismentDaata.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\02AdvertismentDaata\obj\Debug\netcoreapp2.0\02AdvertismentDaata.dll
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\02AdvertismentDaata\obj\Debug\netcoreapp2.0\02AdvertismentDaata.pdb

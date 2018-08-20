@@ -1,0 +1,11 @@
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\02SoftuniKaraoke\bin\Debug\netcoreapp2.0\02SoftuniKaraoke.deps.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\02SoftuniKaraoke\bin\Debug\netcoreapp2.0\02SoftuniKaraoke.runtimeconfig.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\02SoftuniKaraoke\bin\Debug\netcoreapp2.0\02SoftuniKaraoke.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\02SoftuniKaraoke\bin\Debug\netcoreapp2.0\02SoftuniKaraoke.dll
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\02SoftuniKaraoke\bin\Debug\netcoreapp2.0\02SoftuniKaraoke.pdb
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\02SoftuniKaraoke\obj\Debug\netcoreapp2.0\02SoftuniKaraoke.csprojResolveAssemblyReference.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\02SoftuniKaraoke\obj\Debug\netcoreapp2.0\02SoftuniKaraoke.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\02SoftuniKaraoke\obj\Debug\netcoreapp2.0\02SoftuniKaraoke.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\02SoftuniKaraoke\obj\Debug\netcoreapp2.0\02SoftuniKaraoke.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\02SoftuniKaraoke\obj\Debug\netcoreapp2.0\02SoftuniKaraoke.dll
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\02SoftuniKaraoke\obj\Debug\netcoreapp2.0\02SoftuniKaraoke.pdb

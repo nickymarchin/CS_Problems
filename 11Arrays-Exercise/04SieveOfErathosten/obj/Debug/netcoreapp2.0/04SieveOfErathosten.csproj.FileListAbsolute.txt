@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\04SieveOfErathosten\bin\Debug\netcoreapp2.0\04SieveOfErathosten.deps.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\04SieveOfErathosten\bin\Debug\netcoreapp2.0\04SieveOfErathosten.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\04SieveOfErathosten\bin\Debug\netcoreapp2.0\04SieveOfErathosten.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\04SieveOfErathosten\bin\Debug\netcoreapp2.0\04SieveOfErathosten.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\04SieveOfErathosten\bin\Debug\netcoreapp2.0\04SieveOfErathosten.pdb
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\04SieveOfErathosten\obj\Debug\netcoreapp2.0\04SieveOfErathosten.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\04SieveOfErathosten\obj\Debug\netcoreapp2.0\04SieveOfErathosten.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\04SieveOfErathosten\obj\Debug\netcoreapp2.0\04SieveOfErathosten.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\04SieveOfErathosten\obj\Debug\netcoreapp2.0\04SieveOfErathosten.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\04SieveOfErathosten\obj\Debug\netcoreapp2.0\04SieveOfErathosten.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\04SieveOfErathosten\obj\Debug\netcoreapp2.0\04SieveOfErathosten.pdb

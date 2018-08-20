@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\00Demo\bin\Debug\netcoreapp2.0\00Demo.deps.json
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\00Demo\bin\Debug\netcoreapp2.0\00Demo.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\00Demo\bin\Debug\netcoreapp2.0\00Demo.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\00Demo\bin\Debug\netcoreapp2.0\00Demo.dll
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\00Demo\bin\Debug\netcoreapp2.0\00Demo.pdb
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\00Demo\obj\Debug\netcoreapp2.0\00Demo.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\00Demo\obj\Debug\netcoreapp2.0\00Demo.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\00Demo\obj\Debug\netcoreapp2.0\00Demo.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\00Demo\obj\Debug\netcoreapp2.0\00Demo.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\00Demo\obj\Debug\netcoreapp2.0\00Demo.dll
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\00Demo\obj\Debug\netcoreapp2.0\00Demo.pdb

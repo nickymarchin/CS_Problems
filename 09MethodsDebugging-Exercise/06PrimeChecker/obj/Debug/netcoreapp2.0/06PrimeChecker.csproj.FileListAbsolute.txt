@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\06PrimeChecker\obj\Debug\netcoreapp2.0\06PrimeChecker.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\06PrimeChecker\obj\Debug\netcoreapp2.0\06PrimeChecker.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\06PrimeChecker\obj\Debug\netcoreapp2.0\06PrimeChecker.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\06PrimeChecker\bin\Debug\netcoreapp2.0\06PrimeChecker.deps.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\06PrimeChecker\bin\Debug\netcoreapp2.0\06PrimeChecker.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\06PrimeChecker\bin\Debug\netcoreapp2.0\06PrimeChecker.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\06PrimeChecker\bin\Debug\netcoreapp2.0\06PrimeChecker.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\06PrimeChecker\bin\Debug\netcoreapp2.0\06PrimeChecker.pdb
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\06PrimeChecker\obj\Debug\netcoreapp2.0\06PrimeChecker.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\06PrimeChecker\obj\Debug\netcoreapp2.0\06PrimeChecker.pdb
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\06PrimeChecker\obj\Debug\netcoreapp2.0\06PrimeChecker.csprojResolveAssemblyReference.cache

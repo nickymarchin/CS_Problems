@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\01CenturiesToMinutes1\bin\Debug\netcoreapp2.0\01CenturiesToMinutes1.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\01CenturiesToMinutes1\bin\Debug\netcoreapp2.0\01CenturiesToMinutes1.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\01CenturiesToMinutes1\bin\Debug\netcoreapp2.0\01CenturiesToMinutes1.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\01CenturiesToMinutes1\bin\Debug\netcoreapp2.0\01CenturiesToMinutes1.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\01CenturiesToMinutes1\bin\Debug\netcoreapp2.0\01CenturiesToMinutes1.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\01CenturiesToMinutes1\obj\Debug\netcoreapp2.0\01CenturiesToMinutes1.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\01CenturiesToMinutes1\obj\Debug\netcoreapp2.0\01CenturiesToMinutes1.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\01CenturiesToMinutes1\obj\Debug\netcoreapp2.0\01CenturiesToMinutes1.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\01CenturiesToMinutes1\obj\Debug\netcoreapp2.0\01CenturiesToMinutes1.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\01CenturiesToMinutes1\obj\Debug\netcoreapp2.0\01CenturiesToMinutes1.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\01CenturiesToMinutes1\obj\Debug\netcoreapp2.0\01CenturiesToMinutes1.pdb

@@ -1,0 +1,11 @@
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\02KaminoFactory\bin\Debug\netcoreapp2.0\02KaminoFactory.deps.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\02KaminoFactory\bin\Debug\netcoreapp2.0\02KaminoFactory.runtimeconfig.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\02KaminoFactory\bin\Debug\netcoreapp2.0\02KaminoFactory.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\02KaminoFactory\bin\Debug\netcoreapp2.0\02KaminoFactory.dll
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\02KaminoFactory\bin\Debug\netcoreapp2.0\02KaminoFactory.pdb
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\02KaminoFactory\obj\Debug\netcoreapp2.0\02KaminoFactory.csprojResolveAssemblyReference.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\02KaminoFactory\obj\Debug\netcoreapp2.0\02KaminoFactory.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\02KaminoFactory\obj\Debug\netcoreapp2.0\02KaminoFactory.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\02KaminoFactory\obj\Debug\netcoreapp2.0\02KaminoFactory.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\02KaminoFactory\obj\Debug\netcoreapp2.0\02KaminoFactory.dll
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\02KaminoFactory\obj\Debug\netcoreapp2.0\02KaminoFactory.pdb

@@ -1,0 +1,11 @@
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\03RegexMon\bin\Debug\netcoreapp2.0\03RegexMon.deps.json
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\03RegexMon\bin\Debug\netcoreapp2.0\03RegexMon.runtimeconfig.json
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\03RegexMon\bin\Debug\netcoreapp2.0\03RegexMon.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\03RegexMon\bin\Debug\netcoreapp2.0\03RegexMon.dll
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\03RegexMon\bin\Debug\netcoreapp2.0\03RegexMon.pdb
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\03RegexMon\obj\Debug\netcoreapp2.0\03RegexMon.csprojResolveAssemblyReference.cache
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\03RegexMon\obj\Debug\netcoreapp2.0\03RegexMon.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\03RegexMon\obj\Debug\netcoreapp2.0\03RegexMon.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\03RegexMon\obj\Debug\netcoreapp2.0\03RegexMon.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\03RegexMon\obj\Debug\netcoreapp2.0\03RegexMon.dll
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\03RegexMon\obj\Debug\netcoreapp2.0\03RegexMon.pdb

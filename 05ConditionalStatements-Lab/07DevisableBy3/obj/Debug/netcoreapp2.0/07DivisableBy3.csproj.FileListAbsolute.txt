@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\07DevisableBy3\bin\Debug\netcoreapp2.0\07DivisableBy3.deps.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\07DevisableBy3\bin\Debug\netcoreapp2.0\07DivisableBy3.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\07DevisableBy3\bin\Debug\netcoreapp2.0\07DivisableBy3.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\07DevisableBy3\bin\Debug\netcoreapp2.0\07DivisableBy3.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\07DevisableBy3\bin\Debug\netcoreapp2.0\07DivisableBy3.pdb
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\07DevisableBy3\obj\Debug\netcoreapp2.0\07DivisableBy3.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\07DevisableBy3\obj\Debug\netcoreapp2.0\07DivisableBy3.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\07DevisableBy3\obj\Debug\netcoreapp2.0\07DivisableBy3.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\07DevisableBy3\obj\Debug\netcoreapp2.0\07DivisableBy3.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\07DevisableBy3\obj\Debug\netcoreapp2.0\07DivisableBy3.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\07DevisableBy3\obj\Debug\netcoreapp2.0\07DivisableBy3.pdb

@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\01.BasicSyntax\01Greeting\obj\Debug\netcoreapp2.0\01Greeting.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\01.BasicSyntax\01Greeting\obj\Debug\netcoreapp2.0\01Greeting.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\01.BasicSyntax\01Greeting\obj\Debug\netcoreapp2.0\01Greeting.AssemblyInfo.cs
+D:\Users\nikim\source\repos\01.BasicSyntax\01Greeting\bin\Debug\netcoreapp2.0\01Greeting.deps.json
+D:\Users\nikim\source\repos\01.BasicSyntax\01Greeting\bin\Debug\netcoreapp2.0\01Greeting.runtimeconfig.json
+D:\Users\nikim\source\repos\01.BasicSyntax\01Greeting\bin\Debug\netcoreapp2.0\01Greeting.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\01.BasicSyntax\01Greeting\bin\Debug\netcoreapp2.0\01Greeting.dll
+D:\Users\nikim\source\repos\01.BasicSyntax\01Greeting\bin\Debug\netcoreapp2.0\01Greeting.pdb
+D:\Users\nikim\source\repos\01.BasicSyntax\01Greeting\obj\Debug\netcoreapp2.0\01Greeting.dll
+D:\Users\nikim\source\repos\01.BasicSyntax\01Greeting\obj\Debug\netcoreapp2.0\01Greeting.pdb

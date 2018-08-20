@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\00LabTests\bin\Debug\netcoreapp2.0\00LabTests.deps.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\00LabTests\bin\Debug\netcoreapp2.0\00LabTests.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\00LabTests\bin\Debug\netcoreapp2.0\00LabTests.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\00LabTests\bin\Debug\netcoreapp2.0\00LabTests.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\00LabTests\bin\Debug\netcoreapp2.0\00LabTests.pdb
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\00LabTests\obj\Debug\netcoreapp2.0\00LabTests.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\00LabTests\obj\Debug\netcoreapp2.0\00LabTests.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\00LabTests\obj\Debug\netcoreapp2.0\00LabTests.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\00LabTests\obj\Debug\netcoreapp2.0\00LabTests.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\00LabTests\obj\Debug\netcoreapp2.0\00LabTests.pdb

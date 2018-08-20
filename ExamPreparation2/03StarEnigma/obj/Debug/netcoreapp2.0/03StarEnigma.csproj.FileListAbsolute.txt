@@ -1,0 +1,11 @@
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\03StarEnigma\bin\Debug\netcoreapp2.0\03StarEnigma.deps.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\03StarEnigma\bin\Debug\netcoreapp2.0\03StarEnigma.runtimeconfig.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\03StarEnigma\bin\Debug\netcoreapp2.0\03StarEnigma.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\03StarEnigma\bin\Debug\netcoreapp2.0\03StarEnigma.dll
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\03StarEnigma\bin\Debug\netcoreapp2.0\03StarEnigma.pdb
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\03StarEnigma\obj\Debug\netcoreapp2.0\03StarEnigma.csprojResolveAssemblyReference.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\03StarEnigma\obj\Debug\netcoreapp2.0\03StarEnigma.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\03StarEnigma\obj\Debug\netcoreapp2.0\03StarEnigma.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\03StarEnigma\obj\Debug\netcoreapp2.0\03StarEnigma.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\03StarEnigma\obj\Debug\netcoreapp2.0\03StarEnigma.dll
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\03StarEnigma\obj\Debug\netcoreapp2.0\03StarEnigma.pdb

@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\02RectangleArea\bin\Debug\netcoreapp2.0\02RectangleArea.deps.json
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\02RectangleArea\bin\Debug\netcoreapp2.0\02RectangleArea.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\02RectangleArea\bin\Debug\netcoreapp2.0\02RectangleArea.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\02RectangleArea\bin\Debug\netcoreapp2.0\02RectangleArea.dll
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\02RectangleArea\bin\Debug\netcoreapp2.0\02RectangleArea.pdb
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\02RectangleArea\obj\Debug\netcoreapp2.0\02RectangleArea.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\02RectangleArea\obj\Debug\netcoreapp2.0\02RectangleArea.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\02RectangleArea\obj\Debug\netcoreapp2.0\02RectangleArea.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\02RectangleArea\obj\Debug\netcoreapp2.0\02RectangleArea.dll
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\02RectangleArea\obj\Debug\netcoreapp2.0\02RectangleArea.pdb

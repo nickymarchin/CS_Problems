@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\11ConvertSpeedUnits\bin\Debug\netcoreapp2.0\11ConvertSpeedUnits.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\11ConvertSpeedUnits\bin\Debug\netcoreapp2.0\11ConvertSpeedUnits.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\11ConvertSpeedUnits\bin\Debug\netcoreapp2.0\11ConvertSpeedUnits.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\11ConvertSpeedUnits\bin\Debug\netcoreapp2.0\11ConvertSpeedUnits.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\11ConvertSpeedUnits\bin\Debug\netcoreapp2.0\11ConvertSpeedUnits.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\11ConvertSpeedUnits\obj\Debug\netcoreapp2.0\11ConvertSpeedUnits.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\11ConvertSpeedUnits\obj\Debug\netcoreapp2.0\11ConvertSpeedUnits.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\11ConvertSpeedUnits\obj\Debug\netcoreapp2.0\11ConvertSpeedUnits.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\11ConvertSpeedUnits\obj\Debug\netcoreapp2.0\11ConvertSpeedUnits.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\11ConvertSpeedUnits\obj\Debug\netcoreapp2.0\11ConvertSpeedUnits.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\11ConvertSpeedUnits\obj\Debug\netcoreapp2.0\11ConvertSpeedUnits.pdb

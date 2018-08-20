@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\03RestaurantDiscount\bin\Debug\netcoreapp2.0\03RestaurantDiscount.deps.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\03RestaurantDiscount\bin\Debug\netcoreapp2.0\03RestaurantDiscount.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\03RestaurantDiscount\bin\Debug\netcoreapp2.0\03RestaurantDiscount.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\03RestaurantDiscount\bin\Debug\netcoreapp2.0\03RestaurantDiscount.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\03RestaurantDiscount\bin\Debug\netcoreapp2.0\03RestaurantDiscount.pdb
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\03RestaurantDiscount\obj\Debug\netcoreapp2.0\03RestaurantDiscount.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\03RestaurantDiscount\obj\Debug\netcoreapp2.0\03RestaurantDiscount.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\03RestaurantDiscount\obj\Debug\netcoreapp2.0\03RestaurantDiscount.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\03RestaurantDiscount\obj\Debug\netcoreapp2.0\03RestaurantDiscount.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\03RestaurantDiscount\obj\Debug\netcoreapp2.0\03RestaurantDiscount.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\03RestaurantDiscount\obj\Debug\netcoreapp2.0\03RestaurantDiscount.pdb

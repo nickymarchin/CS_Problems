@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\02OddOccurrences\bin\Debug\netcoreapp2.0\02OddOccurrences.deps.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\02OddOccurrences\bin\Debug\netcoreapp2.0\02OddOccurrences.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\02OddOccurrences\bin\Debug\netcoreapp2.0\02OddOccurrences.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\02OddOccurrences\bin\Debug\netcoreapp2.0\02OddOccurrences.dll
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\02OddOccurrences\bin\Debug\netcoreapp2.0\02OddOccurrences.pdb
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\02OddOccurrences\obj\Debug\netcoreapp2.0\02OddOccurrences.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\02OddOccurrences\obj\Debug\netcoreapp2.0\02OddOccurrences.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\02OddOccurrences\obj\Debug\netcoreapp2.0\02OddOccurrences.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\02OddOccurrences\obj\Debug\netcoreapp2.0\02OddOccurrences.dll
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\02OddOccurrences\obj\Debug\netcoreapp2.0\02OddOccurrences.pdb

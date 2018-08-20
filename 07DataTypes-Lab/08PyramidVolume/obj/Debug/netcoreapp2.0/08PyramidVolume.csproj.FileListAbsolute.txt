@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\08PyramidVolume\bin\Debug\netcoreapp2.0\08PyramidVolume.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\08PyramidVolume\bin\Debug\netcoreapp2.0\08PyramidVolume.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\08PyramidVolume\bin\Debug\netcoreapp2.0\08PyramidVolume.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\08PyramidVolume\bin\Debug\netcoreapp2.0\08PyramidVolume.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\08PyramidVolume\bin\Debug\netcoreapp2.0\08PyramidVolume.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\08PyramidVolume\obj\Debug\netcoreapp2.0\08PyramidVolume.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\08PyramidVolume\obj\Debug\netcoreapp2.0\08PyramidVolume.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\08PyramidVolume\obj\Debug\netcoreapp2.0\08PyramidVolume.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\08PyramidVolume\obj\Debug\netcoreapp2.0\08PyramidVolume.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\08PyramidVolume\obj\Debug\netcoreapp2.0\08PyramidVolume.pdb

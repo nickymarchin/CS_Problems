@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\05ForeignLanguages\bin\Debug\netcoreapp2.0\05ForeignLanguages.deps.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\05ForeignLanguages\bin\Debug\netcoreapp2.0\05ForeignLanguages.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\05ForeignLanguages\bin\Debug\netcoreapp2.0\05ForeignLanguages.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\05ForeignLanguages\bin\Debug\netcoreapp2.0\05ForeignLanguages.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\05ForeignLanguages\bin\Debug\netcoreapp2.0\05ForeignLanguages.pdb
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\05ForeignLanguages\obj\Debug\netcoreapp2.0\05ForeignLanguages.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\05ForeignLanguages\obj\Debug\netcoreapp2.0\05ForeignLanguages.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\05ForeignLanguages\obj\Debug\netcoreapp2.0\05ForeignLanguages.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\05ForeignLanguages\obj\Debug\netcoreapp2.0\05ForeignLanguages.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\05ForeignLanguages\obj\Debug\netcoreapp2.0\05ForeignLanguages.pdb

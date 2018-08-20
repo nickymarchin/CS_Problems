@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\08SumOfOddNumbers\bin\Debug\netcoreapp2.0\08SumOfOddNumbers.deps.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\08SumOfOddNumbers\bin\Debug\netcoreapp2.0\08SumOfOddNumbers.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\08SumOfOddNumbers\bin\Debug\netcoreapp2.0\08SumOfOddNumbers.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\08SumOfOddNumbers\bin\Debug\netcoreapp2.0\08SumOfOddNumbers.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\08SumOfOddNumbers\bin\Debug\netcoreapp2.0\08SumOfOddNumbers.pdb
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\08SumOfOddNumbers\obj\Debug\netcoreapp2.0\08SumOfOddNumbers.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\08SumOfOddNumbers\obj\Debug\netcoreapp2.0\08SumOfOddNumbers.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\08SumOfOddNumbers\obj\Debug\netcoreapp2.0\08SumOfOddNumbers.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\08SumOfOddNumbers\obj\Debug\netcoreapp2.0\08SumOfOddNumbers.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\08SumOfOddNumbers\obj\Debug\netcoreapp2.0\08SumOfOddNumbers.pdb

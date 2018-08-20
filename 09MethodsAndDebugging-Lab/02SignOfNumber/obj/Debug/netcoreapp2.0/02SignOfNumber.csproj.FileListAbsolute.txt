@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\02SignOfNumber\bin\Debug\netcoreapp2.0\02SignOfNumber.deps.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\02SignOfNumber\bin\Debug\netcoreapp2.0\02SignOfNumber.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\02SignOfNumber\bin\Debug\netcoreapp2.0\02SignOfNumber.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\02SignOfNumber\bin\Debug\netcoreapp2.0\02SignOfNumber.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\02SignOfNumber\bin\Debug\netcoreapp2.0\02SignOfNumber.pdb
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\02SignOfNumber\obj\Debug\netcoreapp2.0\02SignOfNumber.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\02SignOfNumber\obj\Debug\netcoreapp2.0\02SignOfNumber.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\02SignOfNumber\obj\Debug\netcoreapp2.0\02SignOfNumber.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\02SignOfNumber\obj\Debug\netcoreapp2.0\02SignOfNumber.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\02SignOfNumber\obj\Debug\netcoreapp2.0\02SignOfNumber.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\02SignOfNumber\obj\Debug\netcoreapp2.0\02SignOfNumber.pdb

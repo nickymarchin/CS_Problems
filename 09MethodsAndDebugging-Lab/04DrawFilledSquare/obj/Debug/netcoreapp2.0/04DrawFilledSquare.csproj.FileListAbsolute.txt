@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\04DrawFilledSquare\bin\Debug\netcoreapp2.0\04DrawFilledSquare.deps.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\04DrawFilledSquare\bin\Debug\netcoreapp2.0\04DrawFilledSquare.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\04DrawFilledSquare\bin\Debug\netcoreapp2.0\04DrawFilledSquare.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\04DrawFilledSquare\bin\Debug\netcoreapp2.0\04DrawFilledSquare.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\04DrawFilledSquare\bin\Debug\netcoreapp2.0\04DrawFilledSquare.pdb
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\04DrawFilledSquare\obj\Debug\netcoreapp2.0\04DrawFilledSquare.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\04DrawFilledSquare\obj\Debug\netcoreapp2.0\04DrawFilledSquare.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\04DrawFilledSquare\obj\Debug\netcoreapp2.0\04DrawFilledSquare.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\04DrawFilledSquare\obj\Debug\netcoreapp2.0\04DrawFilledSquare.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\04DrawFilledSquare\obj\Debug\netcoreapp2.0\04DrawFilledSquare.pdb

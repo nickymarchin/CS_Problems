@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\01Phonebook\bin\Debug\netcoreapp2.0\01Phonebook.deps.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\01Phonebook\bin\Debug\netcoreapp2.0\01Phonebook.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\01Phonebook\bin\Debug\netcoreapp2.0\01Phonebook.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\01Phonebook\bin\Debug\netcoreapp2.0\01Phonebook.dll
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\01Phonebook\bin\Debug\netcoreapp2.0\01Phonebook.pdb
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\01Phonebook\obj\Debug\netcoreapp2.0\01Phonebook.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\01Phonebook\obj\Debug\netcoreapp2.0\01Phonebook.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\01Phonebook\obj\Debug\netcoreapp2.0\01Phonebook.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\01Phonebook\obj\Debug\netcoreapp2.0\01Phonebook.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\01Phonebook\obj\Debug\netcoreapp2.0\01Phonebook.dll
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\01Phonebook\obj\Debug\netcoreapp2.0\01Phonebook.pdb

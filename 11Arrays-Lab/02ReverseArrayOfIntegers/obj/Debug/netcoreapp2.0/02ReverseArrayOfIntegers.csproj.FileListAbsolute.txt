@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\02ReverseArrayOfIntegers\bin\Debug\netcoreapp2.0\02ReverseArrayOfIntegers.deps.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\02ReverseArrayOfIntegers\bin\Debug\netcoreapp2.0\02ReverseArrayOfIntegers.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\02ReverseArrayOfIntegers\bin\Debug\netcoreapp2.0\02ReverseArrayOfIntegers.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\02ReverseArrayOfIntegers\bin\Debug\netcoreapp2.0\02ReverseArrayOfIntegers.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\02ReverseArrayOfIntegers\bin\Debug\netcoreapp2.0\02ReverseArrayOfIntegers.pdb
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\02ReverseArrayOfIntegers\obj\Debug\netcoreapp2.0\02ReverseArrayOfIntegers.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\02ReverseArrayOfIntegers\obj\Debug\netcoreapp2.0\02ReverseArrayOfIntegers.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\02ReverseArrayOfIntegers\obj\Debug\netcoreapp2.0\02ReverseArrayOfIntegers.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\02ReverseArrayOfIntegers\obj\Debug\netcoreapp2.0\02ReverseArrayOfIntegers.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\02ReverseArrayOfIntegers\obj\Debug\netcoreapp2.0\02ReverseArrayOfIntegers.pdb

@@ -1,0 +1,11 @@
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\04ForceBook\bin\Debug\netcoreapp2.0\04ForceBook.deps.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\04ForceBook\bin\Debug\netcoreapp2.0\04ForceBook.runtimeconfig.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\04ForceBook\bin\Debug\netcoreapp2.0\04ForceBook.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\04ForceBook\bin\Debug\netcoreapp2.0\04ForceBook.dll
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\04ForceBook\bin\Debug\netcoreapp2.0\04ForceBook.pdb
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\04ForceBook\obj\Debug\netcoreapp2.0\04ForceBook.csprojResolveAssemblyReference.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\04ForceBook\obj\Debug\netcoreapp2.0\04ForceBook.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\04ForceBook\obj\Debug\netcoreapp2.0\04ForceBook.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\04ForceBook\obj\Debug\netcoreapp2.0\04ForceBook.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\04ForceBook\obj\Debug\netcoreapp2.0\04ForceBook.dll
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\04ForceBook\obj\Debug\netcoreapp2.0\04ForceBook.pdb

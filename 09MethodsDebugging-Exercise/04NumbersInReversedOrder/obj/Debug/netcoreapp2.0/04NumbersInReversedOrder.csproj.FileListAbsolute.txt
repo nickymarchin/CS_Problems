@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\04NumbersInReversedOrder\bin\Debug\netcoreapp2.0\04NumbersInReversedOrder.deps.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\04NumbersInReversedOrder\bin\Debug\netcoreapp2.0\04NumbersInReversedOrder.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\04NumbersInReversedOrder\bin\Debug\netcoreapp2.0\04NumbersInReversedOrder.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\04NumbersInReversedOrder\bin\Debug\netcoreapp2.0\04NumbersInReversedOrder.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\04NumbersInReversedOrder\bin\Debug\netcoreapp2.0\04NumbersInReversedOrder.pdb
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\04NumbersInReversedOrder\obj\Debug\netcoreapp2.0\04NumbersInReversedOrder.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\04NumbersInReversedOrder\obj\Debug\netcoreapp2.0\04NumbersInReversedOrder.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\04NumbersInReversedOrder\obj\Debug\netcoreapp2.0\04NumbersInReversedOrder.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\04NumbersInReversedOrder\obj\Debug\netcoreapp2.0\04NumbersInReversedOrder.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\04NumbersInReversedOrder\obj\Debug\netcoreapp2.0\04NumbersInReversedOrder.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\04NumbersInReversedOrder\obj\Debug\netcoreapp2.0\04NumbersInReversedOrder.pdb

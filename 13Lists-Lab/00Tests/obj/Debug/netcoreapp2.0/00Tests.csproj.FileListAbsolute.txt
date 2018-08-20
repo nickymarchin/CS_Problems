@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\00Tests\bin\Debug\netcoreapp2.0\00Tests.deps.json
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\00Tests\bin\Debug\netcoreapp2.0\00Tests.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\00Tests\bin\Debug\netcoreapp2.0\00Tests.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\00Tests\bin\Debug\netcoreapp2.0\00Tests.dll
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\00Tests\bin\Debug\netcoreapp2.0\00Tests.pdb
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\00Tests\obj\Debug\netcoreapp2.0\00Tests.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\00Tests\obj\Debug\netcoreapp2.0\00Tests.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\00Tests\obj\Debug\netcoreapp2.0\00Tests.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\00Tests\obj\Debug\netcoreapp2.0\00Tests.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\00Tests\obj\Debug\netcoreapp2.0\00Tests.dll
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\00Tests\obj\Debug\netcoreapp2.0\00Tests.pdb

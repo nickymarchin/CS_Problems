@@ -1,0 +1,11 @@
+D:\Users\nikim\C#Projects\ExamPreparation1\02MemoryView\bin\Debug\netcoreapp2.0\02MemoryView.deps.json
+D:\Users\nikim\C#Projects\ExamPreparation1\02MemoryView\bin\Debug\netcoreapp2.0\02MemoryView.runtimeconfig.json
+D:\Users\nikim\C#Projects\ExamPreparation1\02MemoryView\bin\Debug\netcoreapp2.0\02MemoryView.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\ExamPreparation1\02MemoryView\bin\Debug\netcoreapp2.0\02MemoryView.dll
+D:\Users\nikim\C#Projects\ExamPreparation1\02MemoryView\bin\Debug\netcoreapp2.0\02MemoryView.pdb
+D:\Users\nikim\C#Projects\ExamPreparation1\02MemoryView\obj\Debug\netcoreapp2.0\02MemoryView.csprojResolveAssemblyReference.cache
+D:\Users\nikim\C#Projects\ExamPreparation1\02MemoryView\obj\Debug\netcoreapp2.0\02MemoryView.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\ExamPreparation1\02MemoryView\obj\Debug\netcoreapp2.0\02MemoryView.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\ExamPreparation1\02MemoryView\obj\Debug\netcoreapp2.0\02MemoryView.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\ExamPreparation1\02MemoryView\obj\Debug\netcoreapp2.0\02MemoryView.dll
+D:\Users\nikim\C#Projects\ExamPreparation1\02MemoryView\obj\Debug\netcoreapp2.0\02MemoryView.pdb

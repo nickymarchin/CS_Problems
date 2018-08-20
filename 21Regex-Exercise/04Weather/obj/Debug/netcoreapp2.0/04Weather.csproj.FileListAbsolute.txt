@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\04Weather\bin\Debug\netcoreapp2.0\04Weather.deps.json
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\04Weather\bin\Debug\netcoreapp2.0\04Weather.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\04Weather\bin\Debug\netcoreapp2.0\04Weather.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\04Weather\bin\Debug\netcoreapp2.0\04Weather.dll
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\04Weather\bin\Debug\netcoreapp2.0\04Weather.pdb
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\04Weather\obj\Debug\netcoreapp2.0\04Weather.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\04Weather\obj\Debug\netcoreapp2.0\04Weather.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\04Weather\obj\Debug\netcoreapp2.0\04Weather.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\04Weather\obj\Debug\netcoreapp2.0\04Weather.dll
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\04Weather\obj\Debug\netcoreapp2.0\04Weather.pdb

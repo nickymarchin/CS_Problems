@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\03TextFilter\bin\Debug\netcoreapp2.0\03TextFilter.deps.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\03TextFilter\bin\Debug\netcoreapp2.0\03TextFilter.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\03TextFilter\bin\Debug\netcoreapp2.0\03TextFilter.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\03TextFilter\bin\Debug\netcoreapp2.0\03TextFilter.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\03TextFilter\bin\Debug\netcoreapp2.0\03TextFilter.pdb
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\03TextFilter\obj\Debug\netcoreapp2.0\03TextFilter.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\03TextFilter\obj\Debug\netcoreapp2.0\03TextFilter.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\03TextFilter\obj\Debug\netcoreapp2.0\03TextFilter.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\03TextFilter\obj\Debug\netcoreapp2.0\03TextFilter.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\03TextFilter\obj\Debug\netcoreapp2.0\03TextFilter.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\03TextFilter\obj\Debug\netcoreapp2.0\03TextFilter.pdb

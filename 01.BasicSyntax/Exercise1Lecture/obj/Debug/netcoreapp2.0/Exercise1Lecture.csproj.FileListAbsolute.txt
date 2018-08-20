@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\01.BasicSyntax\Exercise1Lecture\bin\Debug\netcoreapp2.0\Exercise1Lecture.deps.json
+D:\Users\nikim\source\repos\01.BasicSyntax\Exercise1Lecture\bin\Debug\netcoreapp2.0\Exercise1Lecture.runtimeconfig.json
+D:\Users\nikim\source\repos\01.BasicSyntax\Exercise1Lecture\bin\Debug\netcoreapp2.0\Exercise1Lecture.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\01.BasicSyntax\Exercise1Lecture\bin\Debug\netcoreapp2.0\Exercise1Lecture.dll
+D:\Users\nikim\source\repos\01.BasicSyntax\Exercise1Lecture\bin\Debug\netcoreapp2.0\Exercise1Lecture.pdb
+D:\Users\nikim\source\repos\01.BasicSyntax\Exercise1Lecture\obj\Debug\netcoreapp2.0\Exercise1Lecture.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\01.BasicSyntax\Exercise1Lecture\obj\Debug\netcoreapp2.0\Exercise1Lecture.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\01.BasicSyntax\Exercise1Lecture\obj\Debug\netcoreapp2.0\Exercise1Lecture.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\01.BasicSyntax\Exercise1Lecture\obj\Debug\netcoreapp2.0\Exercise1Lecture.AssemblyInfo.cs
+D:\Users\nikim\source\repos\01.BasicSyntax\Exercise1Lecture\obj\Debug\netcoreapp2.0\Exercise1Lecture.dll
+D:\Users\nikim\source\repos\01.BasicSyntax\Exercise1Lecture\obj\Debug\netcoreapp2.0\Exercise1Lecture.pdb

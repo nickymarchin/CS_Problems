@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\01ReverseAString\bin\Debug\netcoreapp2.0\01ReverseAString.deps.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\01ReverseAString\bin\Debug\netcoreapp2.0\01ReverseAString.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\01ReverseAString\bin\Debug\netcoreapp2.0\01ReverseAString.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\01ReverseAString\bin\Debug\netcoreapp2.0\01ReverseAString.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\01ReverseAString\bin\Debug\netcoreapp2.0\01ReverseAString.pdb
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\01ReverseAString\obj\Debug\netcoreapp2.0\01ReverseAString.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\01ReverseAString\obj\Debug\netcoreapp2.0\01ReverseAString.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\01ReverseAString\obj\Debug\netcoreapp2.0\01ReverseAString.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\01ReverseAString\obj\Debug\netcoreapp2.0\01ReverseAString.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\01ReverseAString\obj\Debug\netcoreapp2.0\01ReverseAString.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\01ReverseAString\obj\Debug\netcoreapp2.0\01ReverseAString.pdb

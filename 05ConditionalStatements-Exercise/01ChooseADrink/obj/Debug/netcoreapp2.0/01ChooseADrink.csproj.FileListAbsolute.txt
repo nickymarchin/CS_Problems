@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\01ChooseADrink\bin\Debug\netcoreapp2.0\01ChooseADrink.deps.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\01ChooseADrink\bin\Debug\netcoreapp2.0\01ChooseADrink.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\01ChooseADrink\bin\Debug\netcoreapp2.0\01ChooseADrink.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\01ChooseADrink\bin\Debug\netcoreapp2.0\01ChooseADrink.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\01ChooseADrink\bin\Debug\netcoreapp2.0\01ChooseADrink.pdb
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\01ChooseADrink\obj\Debug\netcoreapp2.0\01ChooseADrink.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\01ChooseADrink\obj\Debug\netcoreapp2.0\01ChooseADrink.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\01ChooseADrink\obj\Debug\netcoreapp2.0\01ChooseADrink.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\01ChooseADrink\obj\Debug\netcoreapp2.0\01ChooseADrink.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\01ChooseADrink\obj\Debug\netcoreapp2.0\01ChooseADrink.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\01ChooseADrink\obj\Debug\netcoreapp2.0\01ChooseADrink.pdb

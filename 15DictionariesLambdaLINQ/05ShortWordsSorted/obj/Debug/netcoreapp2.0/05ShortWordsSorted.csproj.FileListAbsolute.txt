@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\05ShortWordsSorted\bin\Debug\netcoreapp2.0\05ShortWordsSorted.deps.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\05ShortWordsSorted\bin\Debug\netcoreapp2.0\05ShortWordsSorted.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\05ShortWordsSorted\bin\Debug\netcoreapp2.0\05ShortWordsSorted.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\05ShortWordsSorted\bin\Debug\netcoreapp2.0\05ShortWordsSorted.dll
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\05ShortWordsSorted\bin\Debug\netcoreapp2.0\05ShortWordsSorted.pdb
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\05ShortWordsSorted\obj\Debug\netcoreapp2.0\05ShortWordsSorted.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\05ShortWordsSorted\obj\Debug\netcoreapp2.0\05ShortWordsSorted.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\05ShortWordsSorted\obj\Debug\netcoreapp2.0\05ShortWordsSorted.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\05ShortWordsSorted\obj\Debug\netcoreapp2.0\05ShortWordsSorted.dll
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\05ShortWordsSorted\obj\Debug\netcoreapp2.0\05ShortWordsSorted.pdb

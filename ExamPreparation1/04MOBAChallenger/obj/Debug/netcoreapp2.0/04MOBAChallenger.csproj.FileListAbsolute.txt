@@ -1,0 +1,11 @@
+D:\Users\nikim\C#Projects\ExamPreparation1\04MOBAChallenger\bin\Debug\netcoreapp2.0\04MOBAChallenger.deps.json
+D:\Users\nikim\C#Projects\ExamPreparation1\04MOBAChallenger\bin\Debug\netcoreapp2.0\04MOBAChallenger.runtimeconfig.json
+D:\Users\nikim\C#Projects\ExamPreparation1\04MOBAChallenger\bin\Debug\netcoreapp2.0\04MOBAChallenger.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\ExamPreparation1\04MOBAChallenger\bin\Debug\netcoreapp2.0\04MOBAChallenger.dll
+D:\Users\nikim\C#Projects\ExamPreparation1\04MOBAChallenger\bin\Debug\netcoreapp2.0\04MOBAChallenger.pdb
+D:\Users\nikim\C#Projects\ExamPreparation1\04MOBAChallenger\obj\Debug\netcoreapp2.0\04MOBAChallenger.csprojResolveAssemblyReference.cache
+D:\Users\nikim\C#Projects\ExamPreparation1\04MOBAChallenger\obj\Debug\netcoreapp2.0\04MOBAChallenger.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\ExamPreparation1\04MOBAChallenger\obj\Debug\netcoreapp2.0\04MOBAChallenger.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\ExamPreparation1\04MOBAChallenger\obj\Debug\netcoreapp2.0\04MOBAChallenger.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\ExamPreparation1\04MOBAChallenger\obj\Debug\netcoreapp2.0\04MOBAChallenger.dll
+D:\Users\nikim\C#Projects\ExamPreparation1\04MOBAChallenger\obj\Debug\netcoreapp2.0\04MOBAChallenger.pdb

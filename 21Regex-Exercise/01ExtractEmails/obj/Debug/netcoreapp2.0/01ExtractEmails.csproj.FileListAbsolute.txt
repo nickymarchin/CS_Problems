@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\01ExtractEmails\bin\Debug\netcoreapp2.0\01ExtractEmails.deps.json
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\01ExtractEmails\bin\Debug\netcoreapp2.0\01ExtractEmails.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\01ExtractEmails\bin\Debug\netcoreapp2.0\01ExtractEmails.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\01ExtractEmails\bin\Debug\netcoreapp2.0\01ExtractEmails.dll
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\01ExtractEmails\bin\Debug\netcoreapp2.0\01ExtractEmails.pdb
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\01ExtractEmails\obj\Debug\netcoreapp2.0\01ExtractEmails.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\01ExtractEmails\obj\Debug\netcoreapp2.0\01ExtractEmails.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\01ExtractEmails\obj\Debug\netcoreapp2.0\01ExtractEmails.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\01ExtractEmails\obj\Debug\netcoreapp2.0\01ExtractEmails.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\01ExtractEmails\obj\Debug\netcoreapp2.0\01ExtractEmails.dll
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\01ExtractEmails\obj\Debug\netcoreapp2.0\01ExtractEmails.pdb

@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\08ЛеттерсЦхангеНумберс\bin\Debug\netcoreapp2.0\08ЛеттерсЦхангеНумберс.deps.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\08ЛеттерсЦхангеНумберс\bin\Debug\netcoreapp2.0\08ЛеттерсЦхангеНумберс.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\08ЛеттерсЦхангеНумберс\bin\Debug\netcoreapp2.0\08ЛеттерсЦхангеНумберс.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\08ЛеттерсЦхангеНумберс\bin\Debug\netcoreapp2.0\08ЛеттерсЦхангеНумберс.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\08ЛеттерсЦхангеНумберс\bin\Debug\netcoreapp2.0\08ЛеттерсЦхангеНумберс.pdb
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\08ЛеттерсЦхангеНумберс\obj\Debug\netcoreapp2.0\08ЛеттерсЦхангеНумберс.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\08ЛеттерсЦхангеНумберс\obj\Debug\netcoreapp2.0\08ЛеттерсЦхангеНумберс.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\08ЛеттерсЦхангеНумберс\obj\Debug\netcoreapp2.0\08ЛеттерсЦхангеНумберс.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\08ЛеттерсЦхангеНумберс\obj\Debug\netcoreapp2.0\08ЛеттерсЦхангеНумберс.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\08ЛеттерсЦхангеНумберс\obj\Debug\netcoreapp2.0\08ЛеттерсЦхангеНумберс.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\08ЛеттерсЦхангеНумберс\obj\Debug\netcoreapp2.0\08ЛеттерсЦхангеНумберс.pdb

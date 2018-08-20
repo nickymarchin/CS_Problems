@@ -1,0 +1,11 @@
+D:\Users\nikim\C#Projects\Exam-01-07-18\03SoftUniBarIncome\bin\Debug\netcoreapp2.0\03SoftUniBarIncome.deps.json
+D:\Users\nikim\C#Projects\Exam-01-07-18\03SoftUniBarIncome\bin\Debug\netcoreapp2.0\03SoftUniBarIncome.runtimeconfig.json
+D:\Users\nikim\C#Projects\Exam-01-07-18\03SoftUniBarIncome\bin\Debug\netcoreapp2.0\03SoftUniBarIncome.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\Exam-01-07-18\03SoftUniBarIncome\bin\Debug\netcoreapp2.0\03SoftUniBarIncome.dll
+D:\Users\nikim\C#Projects\Exam-01-07-18\03SoftUniBarIncome\bin\Debug\netcoreapp2.0\03SoftUniBarIncome.pdb
+D:\Users\nikim\C#Projects\Exam-01-07-18\03SoftUniBarIncome\obj\Debug\netcoreapp2.0\03SoftUniBarIncome.csprojResolveAssemblyReference.cache
+D:\Users\nikim\C#Projects\Exam-01-07-18\03SoftUniBarIncome\obj\Debug\netcoreapp2.0\03SoftUniBarIncome.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\Exam-01-07-18\03SoftUniBarIncome\obj\Debug\netcoreapp2.0\03SoftUniBarIncome.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\Exam-01-07-18\03SoftUniBarIncome\obj\Debug\netcoreapp2.0\03SoftUniBarIncome.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\Exam-01-07-18\03SoftUniBarIncome\obj\Debug\netcoreapp2.0\03SoftUniBarIncome.dll
+D:\Users\nikim\C#Projects\Exam-01-07-18\03SoftUniBarIncome\obj\Debug\netcoreapp2.0\03SoftUniBarIncome.pdb

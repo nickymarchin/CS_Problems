@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\01HelloName\bin\Debug\netcoreapp2.0\01HelloName.deps.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\01HelloName\bin\Debug\netcoreapp2.0\01HelloName.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\01HelloName\bin\Debug\netcoreapp2.0\01HelloName.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\01HelloName\bin\Debug\netcoreapp2.0\01HelloName.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\01HelloName\bin\Debug\netcoreapp2.0\01HelloName.pdb
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\01HelloName\obj\Debug\netcoreapp2.0\01HelloName.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\01HelloName\obj\Debug\netcoreapp2.0\01HelloName.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\01HelloName\obj\Debug\netcoreapp2.0\01HelloName.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\01HelloName\obj\Debug\netcoreapp2.0\01HelloName.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\01HelloName\obj\Debug\netcoreapp2.0\01HelloName.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\01HelloName\obj\Debug\netcoreapp2.0\01HelloName.pdb

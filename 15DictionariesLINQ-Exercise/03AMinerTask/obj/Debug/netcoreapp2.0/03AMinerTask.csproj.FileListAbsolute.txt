@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\03AMinerTask\bin\Debug\netcoreapp2.0\03AMinerTask.deps.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\03AMinerTask\bin\Debug\netcoreapp2.0\03AMinerTask.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\03AMinerTask\bin\Debug\netcoreapp2.0\03AMinerTask.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\03AMinerTask\bin\Debug\netcoreapp2.0\03AMinerTask.dll
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\03AMinerTask\bin\Debug\netcoreapp2.0\03AMinerTask.pdb
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\03AMinerTask\obj\Debug\netcoreapp2.0\03AMinerTask.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\03AMinerTask\obj\Debug\netcoreapp2.0\03AMinerTask.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\03AMinerTask\obj\Debug\netcoreapp2.0\03AMinerTask.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\03AMinerTask\obj\Debug\netcoreapp2.0\03AMinerTask.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\03AMinerTask\obj\Debug\netcoreapp2.0\03AMinerTask.dll
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\03AMinerTask\obj\Debug\netcoreapp2.0\03AMinerTask.pdb

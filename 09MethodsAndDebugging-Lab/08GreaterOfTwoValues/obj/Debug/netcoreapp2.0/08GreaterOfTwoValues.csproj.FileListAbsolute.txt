@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\08GreaterOfTwoValues\bin\Debug\netcoreapp2.0\08GreaterOfTwoValues.deps.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\08GreaterOfTwoValues\bin\Debug\netcoreapp2.0\08GreaterOfTwoValues.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\08GreaterOfTwoValues\bin\Debug\netcoreapp2.0\08GreaterOfTwoValues.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\08GreaterOfTwoValues\bin\Debug\netcoreapp2.0\08GreaterOfTwoValues.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\08GreaterOfTwoValues\bin\Debug\netcoreapp2.0\08GreaterOfTwoValues.pdb
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\08GreaterOfTwoValues\obj\Debug\netcoreapp2.0\08GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\08GreaterOfTwoValues\obj\Debug\netcoreapp2.0\08GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\08GreaterOfTwoValues\obj\Debug\netcoreapp2.0\08GreaterOfTwoValues.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\08GreaterOfTwoValues\obj\Debug\netcoreapp2.0\08GreaterOfTwoValues.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\08GreaterOfTwoValues\obj\Debug\netcoreapp2.0\08GreaterOfTwoValues.pdb

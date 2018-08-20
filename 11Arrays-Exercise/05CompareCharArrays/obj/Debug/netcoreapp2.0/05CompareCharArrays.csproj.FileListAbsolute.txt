@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\05CompareCharArrays\bin\Debug\netcoreapp2.0\05CompareCharArrays.deps.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\05CompareCharArrays\bin\Debug\netcoreapp2.0\05CompareCharArrays.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\05CompareCharArrays\bin\Debug\netcoreapp2.0\05CompareCharArrays.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\05CompareCharArrays\bin\Debug\netcoreapp2.0\05CompareCharArrays.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\05CompareCharArrays\bin\Debug\netcoreapp2.0\05CompareCharArrays.pdb
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\05CompareCharArrays\obj\Debug\netcoreapp2.0\05CompareCharArrays.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\05CompareCharArrays\obj\Debug\netcoreapp2.0\05CompareCharArrays.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\05CompareCharArrays\obj\Debug\netcoreapp2.0\05CompareCharArrays.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\05CompareCharArrays\obj\Debug\netcoreapp2.0\05CompareCharArrays.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\05CompareCharArrays\obj\Debug\netcoreapp2.0\05CompareCharArrays.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\05CompareCharArrays\obj\Debug\netcoreapp2.0\05CompareCharArrays.pdb

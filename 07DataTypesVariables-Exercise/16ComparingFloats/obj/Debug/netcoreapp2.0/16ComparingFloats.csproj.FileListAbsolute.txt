@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\16ComparingFloats\bin\Debug\netcoreapp2.0\16ComparingFloats.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\16ComparingFloats\bin\Debug\netcoreapp2.0\16ComparingFloats.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\16ComparingFloats\bin\Debug\netcoreapp2.0\16ComparingFloats.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\16ComparingFloats\bin\Debug\netcoreapp2.0\16ComparingFloats.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\16ComparingFloats\bin\Debug\netcoreapp2.0\16ComparingFloats.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\16ComparingFloats\obj\Debug\netcoreapp2.0\16ComparingFloats.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\16ComparingFloats\obj\Debug\netcoreapp2.0\16ComparingFloats.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\16ComparingFloats\obj\Debug\netcoreapp2.0\16ComparingFloats.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\16ComparingFloats\obj\Debug\netcoreapp2.0\16ComparingFloats.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\16ComparingFloats\obj\Debug\netcoreapp2.0\16ComparingFloats.pdb

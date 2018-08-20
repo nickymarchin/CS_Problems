@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\02CountSubstringOccurences\bin\Debug\netcoreapp2.0\02CountSubstringOccurences.deps.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\02CountSubstringOccurences\bin\Debug\netcoreapp2.0\02CountSubstringOccurences.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\02CountSubstringOccurences\bin\Debug\netcoreapp2.0\02CountSubstringOccurences.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\02CountSubstringOccurences\bin\Debug\netcoreapp2.0\02CountSubstringOccurences.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\02CountSubstringOccurences\bin\Debug\netcoreapp2.0\02CountSubstringOccurences.pdb
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\02CountSubstringOccurences\obj\Debug\netcoreapp2.0\02CountSubstringOccurences.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\02CountSubstringOccurences\obj\Debug\netcoreapp2.0\02CountSubstringOccurences.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\02CountSubstringOccurences\obj\Debug\netcoreapp2.0\02CountSubstringOccurences.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\02CountSubstringOccurences\obj\Debug\netcoreapp2.0\02CountSubstringOccurences.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\02CountSubstringOccurences\obj\Debug\netcoreapp2.0\02CountSubstringOccurences.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\02CountSubstringOccurences\obj\Debug\netcoreapp2.0\02CountSubstringOccurences.pdb

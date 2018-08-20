@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\03MilesToKilometers\bin\Debug\netcoreapp2.0\03MilesToKilometers.deps.json
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\03MilesToKilometers\bin\Debug\netcoreapp2.0\03MilesToKilometers.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\03MilesToKilometers\bin\Debug\netcoreapp2.0\03MilesToKilometers.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\03MilesToKilometers\bin\Debug\netcoreapp2.0\03MilesToKilometers.dll
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\03MilesToKilometers\bin\Debug\netcoreapp2.0\03MilesToKilometers.pdb
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\03MilesToKilometers\obj\Debug\netcoreapp2.0\03MilesToKilometers.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\03MilesToKilometers\obj\Debug\netcoreapp2.0\03MilesToKilometers.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\03MilesToKilometers\obj\Debug\netcoreapp2.0\03MilesToKilometers.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\03MilesToKilometers\obj\Debug\netcoreapp2.0\03MilesToKilometers.dll
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\03MilesToKilometers\obj\Debug\netcoreapp2.0\03MilesToKilometers.pdb

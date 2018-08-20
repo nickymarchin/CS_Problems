@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\14IntegerInHexAndinary\bin\Debug\netcoreapp2.0\14IntegerInHexAndinary.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\14IntegerInHexAndinary\bin\Debug\netcoreapp2.0\14IntegerInHexAndinary.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\14IntegerInHexAndinary\bin\Debug\netcoreapp2.0\14IntegerInHexAndinary.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\14IntegerInHexAndinary\bin\Debug\netcoreapp2.0\14IntegerInHexAndinary.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\14IntegerInHexAndinary\bin\Debug\netcoreapp2.0\14IntegerInHexAndinary.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\14IntegerInHexAndinary\obj\Debug\netcoreapp2.0\14IntegerInHexAndinary.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\14IntegerInHexAndinary\obj\Debug\netcoreapp2.0\14IntegerInHexAndinary.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\14IntegerInHexAndinary\obj\Debug\netcoreapp2.0\14IntegerInHexAndinary.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\14IntegerInHexAndinary\obj\Debug\netcoreapp2.0\14IntegerInHexAndinary.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\14IntegerInHexAndinary\obj\Debug\netcoreapp2.0\14IntegerInHexAndinary.pdb

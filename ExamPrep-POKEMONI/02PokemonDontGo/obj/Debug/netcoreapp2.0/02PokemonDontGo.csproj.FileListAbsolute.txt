@@ -1,0 +1,11 @@
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\02PokemonDontGo\bin\Debug\netcoreapp2.0\02PokemonDontGo.deps.json
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\02PokemonDontGo\bin\Debug\netcoreapp2.0\02PokemonDontGo.runtimeconfig.json
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\02PokemonDontGo\bin\Debug\netcoreapp2.0\02PokemonDontGo.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\02PokemonDontGo\bin\Debug\netcoreapp2.0\02PokemonDontGo.dll
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\02PokemonDontGo\bin\Debug\netcoreapp2.0\02PokemonDontGo.pdb
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\02PokemonDontGo\obj\Debug\netcoreapp2.0\02PokemonDontGo.csprojResolveAssemblyReference.cache
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\02PokemonDontGo\obj\Debug\netcoreapp2.0\02PokemonDontGo.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\02PokemonDontGo\obj\Debug\netcoreapp2.0\02PokemonDontGo.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\02PokemonDontGo\obj\Debug\netcoreapp2.0\02PokemonDontGo.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\02PokemonDontGo\obj\Debug\netcoreapp2.0\02PokemonDontGo.dll
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\02PokemonDontGo\obj\Debug\netcoreapp2.0\02PokemonDontGo.pdb

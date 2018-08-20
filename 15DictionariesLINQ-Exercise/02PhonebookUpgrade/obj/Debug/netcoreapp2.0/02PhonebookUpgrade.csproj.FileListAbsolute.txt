@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\02PhonebookUpgrade\bin\Debug\netcoreapp2.0\02PhonebookUpgrade.deps.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\02PhonebookUpgrade\bin\Debug\netcoreapp2.0\02PhonebookUpgrade.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\02PhonebookUpgrade\bin\Debug\netcoreapp2.0\02PhonebookUpgrade.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\02PhonebookUpgrade\bin\Debug\netcoreapp2.0\02PhonebookUpgrade.dll
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\02PhonebookUpgrade\bin\Debug\netcoreapp2.0\02PhonebookUpgrade.pdb
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\02PhonebookUpgrade\obj\Debug\netcoreapp2.0\02PhonebookUpgrade.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\02PhonebookUpgrade\obj\Debug\netcoreapp2.0\02PhonebookUpgrade.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\02PhonebookUpgrade\obj\Debug\netcoreapp2.0\02PhonebookUpgrade.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\02PhonebookUpgrade\obj\Debug\netcoreapp2.0\02PhonebookUpgrade.dll
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\02PhonebookUpgrade\obj\Debug\netcoreapp2.0\02PhonebookUpgrade.pdb

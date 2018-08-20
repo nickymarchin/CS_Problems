@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\11OddNumber\bin\Debug\netcoreapp2.0\11OddNumber.deps.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\11OddNumber\bin\Debug\netcoreapp2.0\11OddNumber.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\11OddNumber\bin\Debug\netcoreapp2.0\11OddNumber.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\11OddNumber\bin\Debug\netcoreapp2.0\11OddNumber.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\11OddNumber\bin\Debug\netcoreapp2.0\11OddNumber.pdb
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\11OddNumber\obj\Debug\netcoreapp2.0\11OddNumber.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\11OddNumber\obj\Debug\netcoreapp2.0\11OddNumber.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\11OddNumber\obj\Debug\netcoreapp2.0\11OddNumber.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\11OddNumber\obj\Debug\netcoreapp2.0\11OddNumber.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\11OddNumber\obj\Debug\netcoreapp2.0\11OddNumber.pdb

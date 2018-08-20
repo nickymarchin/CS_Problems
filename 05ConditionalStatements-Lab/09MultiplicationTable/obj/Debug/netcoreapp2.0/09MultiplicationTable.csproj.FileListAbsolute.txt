@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\09MultiplicationTable\bin\Debug\netcoreapp2.0\09MultiplicationTable.deps.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\09MultiplicationTable\bin\Debug\netcoreapp2.0\09MultiplicationTable.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\09MultiplicationTable\bin\Debug\netcoreapp2.0\09MultiplicationTable.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\09MultiplicationTable\bin\Debug\netcoreapp2.0\09MultiplicationTable.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\09MultiplicationTable\bin\Debug\netcoreapp2.0\09MultiplicationTable.pdb
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\09MultiplicationTable\obj\Debug\netcoreapp2.0\09MultiplicationTable.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\09MultiplicationTable\obj\Debug\netcoreapp2.0\09MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\09MultiplicationTable\obj\Debug\netcoreapp2.0\09MultiplicationTable.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\09MultiplicationTable\obj\Debug\netcoreapp2.0\09MultiplicationTable.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\09MultiplicationTable\obj\Debug\netcoreapp2.0\09MultiplicationTable.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\09MultiplicationTable\obj\Debug\netcoreapp2.0\09MultiplicationTable.pdb

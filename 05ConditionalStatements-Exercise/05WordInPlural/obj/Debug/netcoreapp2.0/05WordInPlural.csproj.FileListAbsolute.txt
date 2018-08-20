@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\05WordInPlural\bin\Debug\netcoreapp2.0\05WordInPlural.deps.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\05WordInPlural\bin\Debug\netcoreapp2.0\05WordInPlural.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\05WordInPlural\bin\Debug\netcoreapp2.0\05WordInPlural.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\05WordInPlural\bin\Debug\netcoreapp2.0\05WordInPlural.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\05WordInPlural\bin\Debug\netcoreapp2.0\05WordInPlural.pdb
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\05WordInPlural\obj\Debug\netcoreapp2.0\05WordInPlural.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\05WordInPlural\obj\Debug\netcoreapp2.0\05WordInPlural.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\05WordInPlural\obj\Debug\netcoreapp2.0\05WordInPlural.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\05WordInPlural\obj\Debug\netcoreapp2.0\05WordInPlural.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\05WordInPlural\obj\Debug\netcoreapp2.0\05WordInPlural.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Exercise\05WordInPlural\obj\Debug\netcoreapp2.0\05WordInPlural.pdb

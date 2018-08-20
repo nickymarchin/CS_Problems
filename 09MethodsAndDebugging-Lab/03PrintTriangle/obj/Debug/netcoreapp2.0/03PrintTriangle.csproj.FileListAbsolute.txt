@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\03PrintTriangle\bin\Debug\netcoreapp2.0\03PrintTriangle.deps.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\03PrintTriangle\bin\Debug\netcoreapp2.0\03PrintTriangle.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\03PrintTriangle\bin\Debug\netcoreapp2.0\03PrintTriangle.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\03PrintTriangle\bin\Debug\netcoreapp2.0\03PrintTriangle.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\03PrintTriangle\bin\Debug\netcoreapp2.0\03PrintTriangle.pdb
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\03PrintTriangle\obj\Debug\netcoreapp2.0\03PrintTriangle.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\03PrintTriangle\obj\Debug\netcoreapp2.0\03PrintTriangle.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\03PrintTriangle\obj\Debug\netcoreapp2.0\03PrintTriangle.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\03PrintTriangle\obj\Debug\netcoreapp2.0\03PrintTriangle.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\03PrintTriangle\obj\Debug\netcoreapp2.0\03PrintTriangle.pdb

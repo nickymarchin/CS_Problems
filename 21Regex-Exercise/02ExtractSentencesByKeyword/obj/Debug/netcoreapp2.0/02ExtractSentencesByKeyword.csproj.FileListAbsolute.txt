@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\02ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\02ExtractSentencesByKeyword.deps.json
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\02ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\02ExtractSentencesByKeyword.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\02ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\02ExtractSentencesByKeyword.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\02ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\02ExtractSentencesByKeyword.dll
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\02ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\02ExtractSentencesByKeyword.pdb
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\02ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\02ExtractSentencesByKeyword.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\02ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\02ExtractSentencesByKeyword.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\02ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\02ExtractSentencesByKeyword.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\02ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\02ExtractSentencesByKeyword.dll
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Exercise\02ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\02ExtractSentencesByKeyword.pdb

@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\00Test\bin\Debug\netcoreapp2.0\00Test.deps.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\00Test\bin\Debug\netcoreapp2.0\00Test.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\00Test\bin\Debug\netcoreapp2.0\00Test.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\00Test\bin\Debug\netcoreapp2.0\00Test.dll
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\00Test\bin\Debug\netcoreapp2.0\00Test.pdb
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\00Test\obj\Debug\netcoreapp2.0\00Test.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\00Test\obj\Debug\netcoreapp2.0\00Test.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\00Test\obj\Debug\netcoreapp2.0\00Test.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\00Test\obj\Debug\netcoreapp2.0\00Test.dll
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\00Test\obj\Debug\netcoreapp2.0\00Test.pdb

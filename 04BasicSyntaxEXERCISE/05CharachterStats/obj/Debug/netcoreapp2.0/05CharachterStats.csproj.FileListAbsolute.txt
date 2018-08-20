@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\05CharachterStats\bin\Debug\netcoreapp2.0\05CharachterStats.deps.json
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\05CharachterStats\bin\Debug\netcoreapp2.0\05CharachterStats.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\05CharachterStats\bin\Debug\netcoreapp2.0\05CharachterStats.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\05CharachterStats\bin\Debug\netcoreapp2.0\05CharachterStats.dll
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\05CharachterStats\bin\Debug\netcoreapp2.0\05CharachterStats.pdb
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\05CharachterStats\obj\Debug\netcoreapp2.0\05CharachterStats.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\05CharachterStats\obj\Debug\netcoreapp2.0\05CharachterStats.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\05CharachterStats\obj\Debug\netcoreapp2.0\05CharachterStats.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\05CharachterStats\obj\Debug\netcoreapp2.0\05CharachterStats.dll
+D:\Users\nikim\source\repos\TechModule2018\04BasicSyntaxEXERCISE\05CharachterStats\obj\Debug\netcoreapp2.0\05CharachterStats.pdb

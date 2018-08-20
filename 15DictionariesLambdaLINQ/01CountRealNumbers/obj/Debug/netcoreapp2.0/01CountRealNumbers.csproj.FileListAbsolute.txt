@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\01CountRealNumbers\bin\Debug\netcoreapp2.0\01CountRealNumbers.deps.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\01CountRealNumbers\bin\Debug\netcoreapp2.0\01CountRealNumbers.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\01CountRealNumbers\bin\Debug\netcoreapp2.0\01CountRealNumbers.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\01CountRealNumbers\bin\Debug\netcoreapp2.0\01CountRealNumbers.dll
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\01CountRealNumbers\bin\Debug\netcoreapp2.0\01CountRealNumbers.pdb
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\01CountRealNumbers\obj\Debug\netcoreapp2.0\01CountRealNumbers.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\01CountRealNumbers\obj\Debug\netcoreapp2.0\01CountRealNumbers.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\01CountRealNumbers\obj\Debug\netcoreapp2.0\01CountRealNumbers.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\01CountRealNumbers\obj\Debug\netcoreapp2.0\01CountRealNumbers.dll
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\01CountRealNumbers\obj\Debug\netcoreapp2.0\01CountRealNumbers.pdb

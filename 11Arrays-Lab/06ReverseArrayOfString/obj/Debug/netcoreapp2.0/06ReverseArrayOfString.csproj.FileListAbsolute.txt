@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\06ReverseArrayOfString\bin\Debug\netcoreapp2.0\06ReverseArrayOfString.deps.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\06ReverseArrayOfString\bin\Debug\netcoreapp2.0\06ReverseArrayOfString.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\06ReverseArrayOfString\bin\Debug\netcoreapp2.0\06ReverseArrayOfString.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\06ReverseArrayOfString\bin\Debug\netcoreapp2.0\06ReverseArrayOfString.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\06ReverseArrayOfString\bin\Debug\netcoreapp2.0\06ReverseArrayOfString.pdb
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\06ReverseArrayOfString\obj\Debug\netcoreapp2.0\06ReverseArrayOfString.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\06ReverseArrayOfString\obj\Debug\netcoreapp2.0\06ReverseArrayOfString.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\06ReverseArrayOfString\obj\Debug\netcoreapp2.0\06ReverseArrayOfString.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\06ReverseArrayOfString\obj\Debug\netcoreapp2.0\06ReverseArrayOfString.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\06ReverseArrayOfString\obj\Debug\netcoreapp2.0\06ReverseArrayOfString.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\06ReverseArrayOfString\obj\Debug\netcoreapp2.0\06ReverseArrayOfString.pdb

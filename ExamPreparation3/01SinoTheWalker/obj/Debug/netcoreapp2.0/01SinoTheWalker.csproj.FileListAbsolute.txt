@@ -1,0 +1,11 @@
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\01SinoTheWalker\obj\Debug\netcoreapp2.0\01SinoTheWalker.csprojResolveAssemblyReference.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\01SinoTheWalker\obj\Debug\netcoreapp2.0\01SinoTheWalker.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\01SinoTheWalker\obj\Debug\netcoreapp2.0\01SinoTheWalker.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\01SinoTheWalker\obj\Debug\netcoreapp2.0\01SinoTheWalker.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\01SinoTheWalker\bin\Debug\netcoreapp2.0\01SinoTheWalker.deps.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\01SinoTheWalker\bin\Debug\netcoreapp2.0\01SinoTheWalker.runtimeconfig.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\01SinoTheWalker\bin\Debug\netcoreapp2.0\01SinoTheWalker.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\01SinoTheWalker\bin\Debug\netcoreapp2.0\01SinoTheWalker.dll
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\01SinoTheWalker\bin\Debug\netcoreapp2.0\01SinoTheWalker.pdb
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\01SinoTheWalker\obj\Debug\netcoreapp2.0\01SinoTheWalker.dll
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\01SinoTheWalker\obj\Debug\netcoreapp2.0\01SinoTheWalker.pdb

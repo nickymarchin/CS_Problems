@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\04FixEmails\bin\Debug\netcoreapp2.0\04FixEmails.deps.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\04FixEmails\bin\Debug\netcoreapp2.0\04FixEmails.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\04FixEmails\bin\Debug\netcoreapp2.0\04FixEmails.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\04FixEmails\bin\Debug\netcoreapp2.0\04FixEmails.dll
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\04FixEmails\bin\Debug\netcoreapp2.0\04FixEmails.pdb
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\04FixEmails\obj\Debug\netcoreapp2.0\04FixEmails.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\04FixEmails\obj\Debug\netcoreapp2.0\04FixEmails.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\04FixEmails\obj\Debug\netcoreapp2.0\04FixEmails.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\04FixEmails\obj\Debug\netcoreapp2.0\04FixEmails.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\04FixEmails\obj\Debug\netcoreapp2.0\04FixEmails.dll
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLINQ-Exercise\04FixEmails\obj\Debug\netcoreapp2.0\04FixEmails.pdb

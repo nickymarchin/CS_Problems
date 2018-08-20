@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\01MatchFullName\bin\Debug\netcoreapp2.0\01MatchFullName.deps.json
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\01MatchFullName\bin\Debug\netcoreapp2.0\01MatchFullName.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\01MatchFullName\bin\Debug\netcoreapp2.0\01MatchFullName.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\01MatchFullName\bin\Debug\netcoreapp2.0\01MatchFullName.dll
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\01MatchFullName\bin\Debug\netcoreapp2.0\01MatchFullName.pdb
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\01MatchFullName\obj\Debug\netcoreapp2.0\01MatchFullName.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\01MatchFullName\obj\Debug\netcoreapp2.0\01MatchFullName.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\01MatchFullName\obj\Debug\netcoreapp2.0\01MatchFullName.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\01MatchFullName\obj\Debug\netcoreapp2.0\01MatchFullName.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\01MatchFullName\obj\Debug\netcoreapp2.0\01MatchFullName.dll
+D:\Users\nikim\source\repos\TechModule2018\21Regex-Lab\01MatchFullName\obj\Debug\netcoreapp2.0\01MatchFullName.pdb

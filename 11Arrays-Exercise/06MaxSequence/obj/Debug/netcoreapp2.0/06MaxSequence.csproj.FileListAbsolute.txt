@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\06MaxSequence\bin\Debug\netcoreapp2.0\06MaxSequence.deps.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\06MaxSequence\bin\Debug\netcoreapp2.0\06MaxSequence.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\06MaxSequence\bin\Debug\netcoreapp2.0\06MaxSequence.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\06MaxSequence\bin\Debug\netcoreapp2.0\06MaxSequence.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\06MaxSequence\bin\Debug\netcoreapp2.0\06MaxSequence.pdb
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\06MaxSequence\obj\Debug\netcoreapp2.0\06MaxSequence.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\06MaxSequence\obj\Debug\netcoreapp2.0\06MaxSequence.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\06MaxSequence\obj\Debug\netcoreapp2.0\06MaxSequence.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\06MaxSequence\obj\Debug\netcoreapp2.0\06MaxSequence.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\06MaxSequence\obj\Debug\netcoreapp2.0\06MaxSequence.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\06MaxSequence\obj\Debug\netcoreapp2.0\06MaxSequence.pdb

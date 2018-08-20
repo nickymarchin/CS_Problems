@@ -1,0 +1,11 @@
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\01PadawanEquipment\bin\Debug\netcoreapp2.0\01PadawanEquipment.deps.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\01PadawanEquipment\bin\Debug\netcoreapp2.0\01PadawanEquipment.runtimeconfig.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\01PadawanEquipment\bin\Debug\netcoreapp2.0\01PadawanEquipment.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\01PadawanEquipment\bin\Debug\netcoreapp2.0\01PadawanEquipment.dll
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\01PadawanEquipment\bin\Debug\netcoreapp2.0\01PadawanEquipment.pdb
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\01PadawanEquipment\obj\Debug\netcoreapp2.0\01PadawanEquipment.csprojResolveAssemblyReference.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\01PadawanEquipment\obj\Debug\netcoreapp2.0\01PadawanEquipment.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\01PadawanEquipment\obj\Debug\netcoreapp2.0\01PadawanEquipment.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\01PadawanEquipment\obj\Debug\netcoreapp2.0\01PadawanEquipment.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\01PadawanEquipment\obj\Debug\netcoreapp2.0\01PadawanEquipment.dll
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation2\01PadawanEquipment\obj\Debug\netcoreapp2.0\01PadawanEquipment.pdb

@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\01CountWorkingDays\bin\Debug\netcoreapp2.0\01CountWorkingDays.deps.json
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\01CountWorkingDays\bin\Debug\netcoreapp2.0\01CountWorkingDays.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\01CountWorkingDays\bin\Debug\netcoreapp2.0\01CountWorkingDays.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\01CountWorkingDays\bin\Debug\netcoreapp2.0\01CountWorkingDays.dll
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\01CountWorkingDays\bin\Debug\netcoreapp2.0\01CountWorkingDays.pdb
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\01CountWorkingDays\obj\Debug\netcoreapp2.0\01CountWorkingDays.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\01CountWorkingDays\obj\Debug\netcoreapp2.0\01CountWorkingDays.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\01CountWorkingDays\obj\Debug\netcoreapp2.0\01CountWorkingDays.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\01CountWorkingDays\obj\Debug\netcoreapp2.0\01CountWorkingDays.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\01CountWorkingDays\obj\Debug\netcoreapp2.0\01CountWorkingDays.dll
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Exercise\01CountWorkingDays\obj\Debug\netcoreapp2.0\01CountWorkingDays.pdb

@@ -1,0 +1,11 @@
+D:\Users\nikim\C#Projects\Exam-01-07-18\01SoftuniReception\bin\Debug\netcoreapp2.0\01SoftuniReception.deps.json
+D:\Users\nikim\C#Projects\Exam-01-07-18\01SoftuniReception\bin\Debug\netcoreapp2.0\01SoftuniReception.runtimeconfig.json
+D:\Users\nikim\C#Projects\Exam-01-07-18\01SoftuniReception\bin\Debug\netcoreapp2.0\01SoftuniReception.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\Exam-01-07-18\01SoftuniReception\bin\Debug\netcoreapp2.0\01SoftuniReception.dll
+D:\Users\nikim\C#Projects\Exam-01-07-18\01SoftuniReception\bin\Debug\netcoreapp2.0\01SoftuniReception.pdb
+D:\Users\nikim\C#Projects\Exam-01-07-18\01SoftuniReception\obj\Debug\netcoreapp2.0\01SoftuniReception.csprojResolveAssemblyReference.cache
+D:\Users\nikim\C#Projects\Exam-01-07-18\01SoftuniReception\obj\Debug\netcoreapp2.0\01SoftuniReception.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\Exam-01-07-18\01SoftuniReception\obj\Debug\netcoreapp2.0\01SoftuniReception.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\Exam-01-07-18\01SoftuniReception\obj\Debug\netcoreapp2.0\01SoftuniReception.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\Exam-01-07-18\01SoftuniReception\obj\Debug\netcoreapp2.0\01SoftuniReception.dll
+D:\Users\nikim\C#Projects\Exam-01-07-18\01SoftuniReception\obj\Debug\netcoreapp2.0\01SoftuniReception.pdb

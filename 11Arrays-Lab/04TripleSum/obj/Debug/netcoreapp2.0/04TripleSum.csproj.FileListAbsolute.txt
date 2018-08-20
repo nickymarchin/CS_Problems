@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\04TripleSum\bin\Debug\netcoreapp2.0\04TripleSum.deps.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\04TripleSum\bin\Debug\netcoreapp2.0\04TripleSum.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\04TripleSum\bin\Debug\netcoreapp2.0\04TripleSum.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\04TripleSum\bin\Debug\netcoreapp2.0\04TripleSum.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\04TripleSum\bin\Debug\netcoreapp2.0\04TripleSum.pdb
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\04TripleSum\obj\Debug\netcoreapp2.0\04TripleSum.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\04TripleSum\obj\Debug\netcoreapp2.0\04TripleSum.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\04TripleSum\obj\Debug\netcoreapp2.0\04TripleSum.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\04TripleSum\obj\Debug\netcoreapp2.0\04TripleSum.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\04TripleSum\obj\Debug\netcoreapp2.0\04TripleSum.pdb

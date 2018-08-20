@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\01LargestCommonEnd\bin\Debug\netcoreapp2.0\01LargestCommonEnd.deps.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\01LargestCommonEnd\bin\Debug\netcoreapp2.0\01LargestCommonEnd.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\01LargestCommonEnd\bin\Debug\netcoreapp2.0\01LargestCommonEnd.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\01LargestCommonEnd\bin\Debug\netcoreapp2.0\01LargestCommonEnd.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\01LargestCommonEnd\bin\Debug\netcoreapp2.0\01LargestCommonEnd.pdb
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\01LargestCommonEnd\obj\Debug\netcoreapp2.0\01LargestCommonEnd.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\01LargestCommonEnd\obj\Debug\netcoreapp2.0\01LargestCommonEnd.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\01LargestCommonEnd\obj\Debug\netcoreapp2.0\01LargestCommonEnd.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\01LargestCommonEnd\obj\Debug\netcoreapp2.0\01LargestCommonEnd.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\01LargestCommonEnd\obj\Debug\netcoreapp2.0\01LargestCommonEnd.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Exercise\01LargestCommonEnd\obj\Debug\netcoreapp2.0\01LargestCommonEnd.pdb

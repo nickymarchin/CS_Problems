@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\03SumMinMax\bin\Debug\netcoreapp2.0\03SumMinMax.deps.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\03SumMinMax\bin\Debug\netcoreapp2.0\03SumMinMax.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\03SumMinMax\bin\Debug\netcoreapp2.0\03SumMinMax.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\03SumMinMax\bin\Debug\netcoreapp2.0\03SumMinMax.dll
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\03SumMinMax\bin\Debug\netcoreapp2.0\03SumMinMax.pdb
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\03SumMinMax\obj\Debug\netcoreapp2.0\03SumMinMax.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\03SumMinMax\obj\Debug\netcoreapp2.0\03SumMinMax.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\03SumMinMax\obj\Debug\netcoreapp2.0\03SumMinMax.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\03SumMinMax\obj\Debug\netcoreapp2.0\03SumMinMax.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\03SumMinMax\obj\Debug\netcoreapp2.0\03SumMinMax.dll
+D:\Users\nikim\source\repos\TechModule2018\15DictionariesLambdaLINQ\03SumMinMax\obj\Debug\netcoreapp2.0\03SumMinMax.pdb

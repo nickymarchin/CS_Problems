@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\02CircleArea\bin\Debug\netcoreapp2.0\02CircleArea.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\02CircleArea\bin\Debug\netcoreapp2.0\02CircleArea.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\02CircleArea\bin\Debug\netcoreapp2.0\02CircleArea.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\02CircleArea\bin\Debug\netcoreapp2.0\02CircleArea.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\02CircleArea\bin\Debug\netcoreapp2.0\02CircleArea.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\02CircleArea\obj\Debug\netcoreapp2.0\02CircleArea.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\02CircleArea\obj\Debug\netcoreapp2.0\02CircleArea.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\02CircleArea\obj\Debug\netcoreapp2.0\02CircleArea.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\02CircleArea\obj\Debug\netcoreapp2.0\02CircleArea.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\02CircleArea\obj\Debug\netcoreapp2.0\02CircleArea.pdb

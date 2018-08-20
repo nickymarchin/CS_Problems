@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\07Greeting\bin\Debug\netcoreapp2.0\07Greeting.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\07Greeting\bin\Debug\netcoreapp2.0\07Greeting.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\07Greeting\bin\Debug\netcoreapp2.0\07Greeting.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\07Greeting\bin\Debug\netcoreapp2.0\07Greeting.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\07Greeting\bin\Debug\netcoreapp2.0\07Greeting.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\07Greeting\obj\Debug\netcoreapp2.0\07Greeting.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\07Greeting\obj\Debug\netcoreapp2.0\07Greeting.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\07Greeting\obj\Debug\netcoreapp2.0\07Greeting.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\07Greeting\obj\Debug\netcoreapp2.0\07Greeting.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\07Greeting\obj\Debug\netcoreapp2.0\07Greeting.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypes-Lab\07Greeting\obj\Debug\netcoreapp2.0\07Greeting.pdb

@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\02ConvertFromBaseNTo10\bin\Debug\netcoreapp2.0\02ConvertFromBaseNTo10.deps.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\02ConvertFromBaseNTo10\bin\Debug\netcoreapp2.0\02ConvertFromBaseNTo10.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\02ConvertFromBaseNTo10\bin\Debug\netcoreapp2.0\02ConvertFromBaseNTo10.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\02ConvertFromBaseNTo10\bin\Debug\netcoreapp2.0\02ConvertFromBaseNTo10.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\02ConvertFromBaseNTo10\bin\Debug\netcoreapp2.0\02ConvertFromBaseNTo10.pdb
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\02ConvertFromBaseNTo10\obj\Debug\netcoreapp2.0\02ConvertFromBaseNTo10.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\02ConvertFromBaseNTo10\obj\Debug\netcoreapp2.0\02ConvertFromBaseNTo10.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\02ConvertFromBaseNTo10\obj\Debug\netcoreapp2.0\02ConvertFromBaseNTo10.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\02ConvertFromBaseNTo10\obj\Debug\netcoreapp2.0\02ConvertFromBaseNTo10.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\02ConvertFromBaseNTo10\obj\Debug\netcoreapp2.0\02ConvertFromBaseNTo10.pdb

@@ -1,0 +1,10 @@
+D:\Users\nikim\C#Projects\Exam-01-07-18\00Test\bin\Debug\netcoreapp2.0\00Test.deps.json
+D:\Users\nikim\C#Projects\Exam-01-07-18\00Test\bin\Debug\netcoreapp2.0\00Test.runtimeconfig.json
+D:\Users\nikim\C#Projects\Exam-01-07-18\00Test\bin\Debug\netcoreapp2.0\00Test.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\Exam-01-07-18\00Test\bin\Debug\netcoreapp2.0\00Test.dll
+D:\Users\nikim\C#Projects\Exam-01-07-18\00Test\bin\Debug\netcoreapp2.0\00Test.pdb
+D:\Users\nikim\C#Projects\Exam-01-07-18\00Test\obj\Debug\netcoreapp2.0\00Test.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\Exam-01-07-18\00Test\obj\Debug\netcoreapp2.0\00Test.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\Exam-01-07-18\00Test\obj\Debug\netcoreapp2.0\00Test.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\Exam-01-07-18\00Test\obj\Debug\netcoreapp2.0\00Test.dll
+D:\Users\nikim\C#Projects\Exam-01-07-18\00Test\obj\Debug\netcoreapp2.0\00Test.pdb

@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\19TheaThePhotographer\bin\Debug\netcoreapp2.0\19TheaThePhotographer.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\19TheaThePhotographer\bin\Debug\netcoreapp2.0\19TheaThePhotographer.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\19TheaThePhotographer\bin\Debug\netcoreapp2.0\19TheaThePhotographer.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\19TheaThePhotographer\bin\Debug\netcoreapp2.0\19TheaThePhotographer.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\19TheaThePhotographer\bin\Debug\netcoreapp2.0\19TheaThePhotographer.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\19TheaThePhotographer\obj\Debug\netcoreapp2.0\19TheaThePhotographer.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\19TheaThePhotographer\obj\Debug\netcoreapp2.0\19TheaThePhotographer.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\19TheaThePhotographer\obj\Debug\netcoreapp2.0\19TheaThePhotographer.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\19TheaThePhotographer\obj\Debug\netcoreapp2.0\19TheaThePhotographer.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\19TheaThePhotographer\obj\Debug\netcoreapp2.0\19TheaThePhotographer.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\19TheaThePhotographer\obj\Debug\netcoreapp2.0\19TheaThePhotographer.pdb

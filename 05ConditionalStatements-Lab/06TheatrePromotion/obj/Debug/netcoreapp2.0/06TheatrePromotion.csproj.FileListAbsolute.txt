@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\06TheatrePromotion\bin\Debug\netcoreapp2.0\06TheatrePromotion.deps.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\06TheatrePromotion\bin\Debug\netcoreapp2.0\06TheatrePromotion.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\06TheatrePromotion\bin\Debug\netcoreapp2.0\06TheatrePromotion.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\06TheatrePromotion\bin\Debug\netcoreapp2.0\06TheatrePromotion.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\06TheatrePromotion\bin\Debug\netcoreapp2.0\06TheatrePromotion.pdb
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\06TheatrePromotion\obj\Debug\netcoreapp2.0\06TheatrePromotion.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\06TheatrePromotion\obj\Debug\netcoreapp2.0\06TheatrePromotion.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\06TheatrePromotion\obj\Debug\netcoreapp2.0\06TheatrePromotion.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\06TheatrePromotion\obj\Debug\netcoreapp2.0\06TheatrePromotion.dll
+D:\Users\nikim\source\repos\TechModule2018\05ConditionalStatements-Lab\06TheatrePromotion\obj\Debug\netcoreapp2.0\06TheatrePromotion.pdb

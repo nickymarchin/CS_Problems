@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\01RemoveReverse\bin\Debug\netcoreapp2.0\01RemoveReverse.deps.json
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\01RemoveReverse\bin\Debug\netcoreapp2.0\01RemoveReverse.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\01RemoveReverse\bin\Debug\netcoreapp2.0\01RemoveReverse.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\01RemoveReverse\bin\Debug\netcoreapp2.0\01RemoveReverse.dll
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\01RemoveReverse\bin\Debug\netcoreapp2.0\01RemoveReverse.pdb
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\01RemoveReverse\obj\Debug\netcoreapp2.0\01RemoveReverse.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\01RemoveReverse\obj\Debug\netcoreapp2.0\01RemoveReverse.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\01RemoveReverse\obj\Debug\netcoreapp2.0\01RemoveReverse.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\01RemoveReverse\obj\Debug\netcoreapp2.0\01RemoveReverse.dll
+D:\Users\nikim\source\repos\TechModule2018\13Lists-Lab\01RemoveReverse\obj\Debug\netcoreapp2.0\01RemoveReverse.pdb

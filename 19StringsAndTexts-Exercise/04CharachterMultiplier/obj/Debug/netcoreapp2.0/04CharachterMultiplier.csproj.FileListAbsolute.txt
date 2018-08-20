@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\04CharachterMultiplier\bin\Debug\netcoreapp2.0\04CharachterMultiplier.deps.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\04CharachterMultiplier\bin\Debug\netcoreapp2.0\04CharachterMultiplier.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\04CharachterMultiplier\bin\Debug\netcoreapp2.0\04CharachterMultiplier.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\04CharachterMultiplier\bin\Debug\netcoreapp2.0\04CharachterMultiplier.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\04CharachterMultiplier\bin\Debug\netcoreapp2.0\04CharachterMultiplier.pdb
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\04CharachterMultiplier\obj\Debug\netcoreapp2.0\04CharachterMultiplier.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\04CharachterMultiplier\obj\Debug\netcoreapp2.0\04CharachterMultiplier.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\04CharachterMultiplier\obj\Debug\netcoreapp2.0\04CharachterMultiplier.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\04CharachterMultiplier\obj\Debug\netcoreapp2.0\04CharachterMultiplier.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\04CharachterMultiplier\obj\Debug\netcoreapp2.0\04CharachterMultiplier.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\04CharachterMultiplier\obj\Debug\netcoreapp2.0\04CharachterMultiplier.pdb

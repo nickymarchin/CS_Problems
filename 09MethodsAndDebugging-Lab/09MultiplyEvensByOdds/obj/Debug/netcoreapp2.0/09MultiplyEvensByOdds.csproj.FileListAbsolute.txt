@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\09MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\09MultiplyEvensByOdds.deps.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\09MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\09MultiplyEvensByOdds.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\09MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\09MultiplyEvensByOdds.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\09MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\09MultiplyEvensByOdds.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\09MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\09MultiplyEvensByOdds.pdb
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\09MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\09MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\09MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\09MultiplyEvensByOdds.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\09MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\09MultiplyEvensByOdds.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\09MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\09MultiplyEvensByOdds.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\09MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\09MultiplyEvensByOdds.pdb

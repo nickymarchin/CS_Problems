@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DragonArmy\bin\Debug\netcoreapp2.0\DragonArmy.deps.json
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DragonArmy\bin\Debug\netcoreapp2.0\DragonArmy.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DragonArmy\bin\Debug\netcoreapp2.0\DragonArmy.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DragonArmy\bin\Debug\netcoreapp2.0\DragonArmy.dll
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DragonArmy\bin\Debug\netcoreapp2.0\DragonArmy.pdb
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DragonArmy\obj\Debug\netcoreapp2.0\DragonArmy.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DragonArmy\obj\Debug\netcoreapp2.0\DragonArmy.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DragonArmy\obj\Debug\netcoreapp2.0\DragonArmy.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DragonArmy\obj\Debug\netcoreapp2.0\DragonArmy.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DragonArmy\obj\Debug\netcoreapp2.0\DragonArmy.dll
+D:\Users\nikim\source\repos\TechModule2018\17ObjectsAndClasses-Lab\DragonArmy\obj\Debug\netcoreapp2.0\DragonArmy.pdb

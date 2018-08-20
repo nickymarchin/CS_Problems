@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\08EmployeeData\bin\Debug\netcoreapp2.0\08EmployeeData.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\08EmployeeData\bin\Debug\netcoreapp2.0\08EmployeeData.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\08EmployeeData\bin\Debug\netcoreapp2.0\08EmployeeData.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\08EmployeeData\bin\Debug\netcoreapp2.0\08EmployeeData.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\08EmployeeData\bin\Debug\netcoreapp2.0\08EmployeeData.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\08EmployeeData\obj\Debug\netcoreapp2.0\08EmployeeData.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\08EmployeeData\obj\Debug\netcoreapp2.0\08EmployeeData.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\08EmployeeData\obj\Debug\netcoreapp2.0\08EmployeeData.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\08EmployeeData\obj\Debug\netcoreapp2.0\08EmployeeData.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\08EmployeeData\obj\Debug\netcoreapp2.0\08EmployeeData.pdb

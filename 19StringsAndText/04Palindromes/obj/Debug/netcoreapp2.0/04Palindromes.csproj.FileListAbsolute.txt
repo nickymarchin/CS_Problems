@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\04Palindromes\bin\Debug\netcoreapp2.0\04Palindromes.deps.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\04Palindromes\bin\Debug\netcoreapp2.0\04Palindromes.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\04Palindromes\bin\Debug\netcoreapp2.0\04Palindromes.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\04Palindromes\bin\Debug\netcoreapp2.0\04Palindromes.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\04Palindromes\bin\Debug\netcoreapp2.0\04Palindromes.pdb
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\04Palindromes\obj\Debug\netcoreapp2.0\04Palindromes.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\04Palindromes\obj\Debug\netcoreapp2.0\04Palindromes.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\04Palindromes\obj\Debug\netcoreapp2.0\04Palindromes.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\04Palindromes\obj\Debug\netcoreapp2.0\04Palindromes.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\04Palindromes\obj\Debug\netcoreapp2.0\04Palindromes.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndText\04Palindromes\obj\Debug\netcoreapp2.0\04Palindromes.pdb

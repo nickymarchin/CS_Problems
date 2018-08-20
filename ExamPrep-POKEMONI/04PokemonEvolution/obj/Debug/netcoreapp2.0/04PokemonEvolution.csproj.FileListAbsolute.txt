@@ -1,0 +1,11 @@
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\04PokemonEvolution\bin\Debug\netcoreapp2.0\04PokemonEvolution.deps.json
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\04PokemonEvolution\bin\Debug\netcoreapp2.0\04PokemonEvolution.runtimeconfig.json
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\04PokemonEvolution\bin\Debug\netcoreapp2.0\04PokemonEvolution.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\04PokemonEvolution\bin\Debug\netcoreapp2.0\04PokemonEvolution.dll
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\04PokemonEvolution\bin\Debug\netcoreapp2.0\04PokemonEvolution.pdb
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\04PokemonEvolution\obj\Debug\netcoreapp2.0\04PokemonEvolution.csprojResolveAssemblyReference.cache
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\04PokemonEvolution\obj\Debug\netcoreapp2.0\04PokemonEvolution.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\04PokemonEvolution\obj\Debug\netcoreapp2.0\04PokemonEvolution.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\04PokemonEvolution\obj\Debug\netcoreapp2.0\04PokemonEvolution.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\04PokemonEvolution\obj\Debug\netcoreapp2.0\04PokemonEvolution.dll
+D:\Users\nikim\C#Projects\ExamPrep-POKEMONI\04PokemonEvolution\obj\Debug\netcoreapp2.0\04PokemonEvolution.pdb

@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\04VariableInHexFormat\bin\Debug\netcoreapp2.0\04VariableInHexFormat.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\04VariableInHexFormat\bin\Debug\netcoreapp2.0\04VariableInHexFormat.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\04VariableInHexFormat\bin\Debug\netcoreapp2.0\04VariableInHexFormat.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\04VariableInHexFormat\bin\Debug\netcoreapp2.0\04VariableInHexFormat.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\04VariableInHexFormat\bin\Debug\netcoreapp2.0\04VariableInHexFormat.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\04VariableInHexFormat\obj\Debug\netcoreapp2.0\04VariableInHexFormat.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\04VariableInHexFormat\obj\Debug\netcoreapp2.0\04VariableInHexFormat.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\04VariableInHexFormat\obj\Debug\netcoreapp2.0\04VariableInHexFormat.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\04VariableInHexFormat\obj\Debug\netcoreapp2.0\04VariableInHexFormat.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\04VariableInHexFormat\obj\Debug\netcoreapp2.0\04VariableInHexFormat.pdb

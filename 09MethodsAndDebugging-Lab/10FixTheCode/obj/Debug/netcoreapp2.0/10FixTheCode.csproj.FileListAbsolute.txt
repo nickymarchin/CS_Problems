@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\10FixTheCode\bin\Debug\netcoreapp2.0\10FixTheCode.deps.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\10FixTheCode\bin\Debug\netcoreapp2.0\10FixTheCode.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\10FixTheCode\bin\Debug\netcoreapp2.0\10FixTheCode.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\10FixTheCode\bin\Debug\netcoreapp2.0\10FixTheCode.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\10FixTheCode\bin\Debug\netcoreapp2.0\10FixTheCode.pdb
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\10FixTheCode\obj\Debug\netcoreapp2.0\10FixTheCode.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\10FixTheCode\obj\Debug\netcoreapp2.0\10FixTheCode.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\10FixTheCode\obj\Debug\netcoreapp2.0\10FixTheCode.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\10FixTheCode\obj\Debug\netcoreapp2.0\10FixTheCode.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\10FixTheCode\obj\Debug\netcoreapp2.0\10FixTheCode.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsAndDebugging-Lab\10FixTheCode\obj\Debug\netcoreapp2.0\10FixTheCode.pdb

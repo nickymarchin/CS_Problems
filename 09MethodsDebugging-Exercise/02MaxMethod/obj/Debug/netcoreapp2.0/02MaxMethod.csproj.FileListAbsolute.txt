@@ -1,0 +1,10 @@
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\02MaxMethod\bin\Debug\netcoreapp2.0\02MaxMethod.deps.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\02MaxMethod\bin\Debug\netcoreapp2.0\02MaxMethod.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\02MaxMethod\bin\Debug\netcoreapp2.0\02MaxMethod.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\02MaxMethod\bin\Debug\netcoreapp2.0\02MaxMethod.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\02MaxMethod\bin\Debug\netcoreapp2.0\02MaxMethod.pdb
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\02MaxMethod\obj\Debug\netcoreapp2.0\02MaxMethod.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\02MaxMethod\obj\Debug\netcoreapp2.0\02MaxMethod.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\02MaxMethod\obj\Debug\netcoreapp2.0\02MaxMethod.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\02MaxMethod\obj\Debug\netcoreapp2.0\02MaxMethod.dll
+D:\Users\nikim\source\repos\TechModule2018\09MethodsDebugging-Exercise\02MaxMethod\obj\Debug\netcoreapp2.0\02MaxMethod.pdb

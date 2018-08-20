@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\15FastPrimeChecker\bin\Debug\netcoreapp2.0\15FastPrimeChecker.deps.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\15FastPrimeChecker\bin\Debug\netcoreapp2.0\15FastPrimeChecker.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\15FastPrimeChecker\bin\Debug\netcoreapp2.0\15FastPrimeChecker.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\15FastPrimeChecker\bin\Debug\netcoreapp2.0\15FastPrimeChecker.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\15FastPrimeChecker\bin\Debug\netcoreapp2.0\15FastPrimeChecker.pdb
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\15FastPrimeChecker\obj\Debug\netcoreapp2.0\15FastPrimeChecker.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\15FastPrimeChecker\obj\Debug\netcoreapp2.0\15FastPrimeChecker.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\15FastPrimeChecker\obj\Debug\netcoreapp2.0\15FastPrimeChecker.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\15FastPrimeChecker\obj\Debug\netcoreapp2.0\15FastPrimeChecker.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\15FastPrimeChecker\obj\Debug\netcoreapp2.0\15FastPrimeChecker.dll
+D:\Users\nikim\source\repos\TechModule2018\07DataTypesVariables-Exercise\15FastPrimeChecker\obj\Debug\netcoreapp2.0\15FastPrimeChecker.pdb

@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\05RoundingNumbers\bin\Debug\netcoreapp2.0\05RoundingNumbers.deps.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\05RoundingNumbers\bin\Debug\netcoreapp2.0\05RoundingNumbers.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\05RoundingNumbers\bin\Debug\netcoreapp2.0\05RoundingNumbers.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\05RoundingNumbers\bin\Debug\netcoreapp2.0\05RoundingNumbers.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\05RoundingNumbers\bin\Debug\netcoreapp2.0\05RoundingNumbers.pdb
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\05RoundingNumbers\obj\Debug\netcoreapp2.0\05RoundingNumbers.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\05RoundingNumbers\obj\Debug\netcoreapp2.0\05RoundingNumbers.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\05RoundingNumbers\obj\Debug\netcoreapp2.0\05RoundingNumbers.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\05RoundingNumbers\obj\Debug\netcoreapp2.0\05RoundingNumbers.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\05RoundingNumbers\obj\Debug\netcoreapp2.0\05RoundingNumbers.dll
+D:\Users\nikim\source\repos\TechModule2018\11Arrays-Lab\05RoundingNumbers\obj\Debug\netcoreapp2.0\05RoundingNumbers.pdb

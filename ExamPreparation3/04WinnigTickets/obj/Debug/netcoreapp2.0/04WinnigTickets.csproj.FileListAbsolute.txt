@@ -1,0 +1,11 @@
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\04WinnigTickets\bin\Debug\netcoreapp2.0\04WinnigTickets.deps.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\04WinnigTickets\bin\Debug\netcoreapp2.0\04WinnigTickets.runtimeconfig.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\04WinnigTickets\bin\Debug\netcoreapp2.0\04WinnigTickets.runtimeconfig.dev.json
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\04WinnigTickets\bin\Debug\netcoreapp2.0\04WinnigTickets.dll
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\04WinnigTickets\bin\Debug\netcoreapp2.0\04WinnigTickets.pdb
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\04WinnigTickets\obj\Debug\netcoreapp2.0\04WinnigTickets.csproj.CoreCompileInputs.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\04WinnigTickets\obj\Debug\netcoreapp2.0\04WinnigTickets.AssemblyInfoInputs.cache
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\04WinnigTickets\obj\Debug\netcoreapp2.0\04WinnigTickets.AssemblyInfo.cs
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\04WinnigTickets\obj\Debug\netcoreapp2.0\04WinnigTickets.dll
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\04WinnigTickets\obj\Debug\netcoreapp2.0\04WinnigTickets.pdb
+D:\Users\nikim\C#Projects\TechModule2018\ExamPreparation3\04WinnigTickets\obj\Debug\netcoreapp2.0\04WinnigTickets.csprojResolveAssemblyReference.cache

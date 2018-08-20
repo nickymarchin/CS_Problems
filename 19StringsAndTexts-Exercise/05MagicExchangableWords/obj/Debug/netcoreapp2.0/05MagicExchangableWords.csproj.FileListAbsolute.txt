@@ -1,0 +1,11 @@
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\05MagicExchangableWords\bin\Debug\netcoreapp2.0\05MagicExchangableWords.deps.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\05MagicExchangableWords\bin\Debug\netcoreapp2.0\05MagicExchangableWords.runtimeconfig.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\05MagicExchangableWords\bin\Debug\netcoreapp2.0\05MagicExchangableWords.runtimeconfig.dev.json
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\05MagicExchangableWords\bin\Debug\netcoreapp2.0\05MagicExchangableWords.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\05MagicExchangableWords\bin\Debug\netcoreapp2.0\05MagicExchangableWords.pdb
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\05MagicExchangableWords\obj\Debug\netcoreapp2.0\05MagicExchangableWords.csprojResolveAssemblyReference.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\05MagicExchangableWords\obj\Debug\netcoreapp2.0\05MagicExchangableWords.csproj.CoreCompileInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\05MagicExchangableWords\obj\Debug\netcoreapp2.0\05MagicExchangableWords.AssemblyInfoInputs.cache
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\05MagicExchangableWords\obj\Debug\netcoreapp2.0\05MagicExchangableWords.AssemblyInfo.cs
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\05MagicExchangableWords\obj\Debug\netcoreapp2.0\05MagicExchangableWords.dll
+D:\Users\nikim\source\repos\TechModule2018\19StringsAndTexts-Exercise\05MagicExchangableWords\obj\Debug\netcoreapp2.0\05MagicExchangableWords.pdb
